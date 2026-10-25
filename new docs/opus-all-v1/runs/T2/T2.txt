@@ -1,0 +1,900 @@
+# Respondent's Responses to Petitioner's Request for Production, Set One
+
+**Working Draft for Supervising Counsel's Review**
+
+*In re Marriage of Jane Doe and John Doe*, LASC Case No. XXXXX-0000
+
+This draft has two parts.
+
+- **Part One** contains the proposed responses, production index, and proposed privilege log. It may be served on opposing counsel only after attorney approval and client verification.
+- **Part Two** contains counsel-only notes. **Do not serve Part Two.**
+
+Bracketed items in Part One, such as **[CONFIRM–N#]**, are placeholders tied to a numbered note in Part Two. They must be resolved and removed before service. Nothing in this draft has been verified by the client or approved by counsel.
+
+---
+
+# PART ONE — PROPOSED RESPONSES (for service after approval)
+
+[COUNSEL NAME, SBN]
+[FIRM NAME / ADDRESS / TELEPHONE / EMAIL]
+Attorney for Respondent JOHN DOE
+
+**SUPERIOR COURT OF CALIFORNIA, COUNTY OF LOS ANGELES**
+
+In re Marriage of:
+Petitioner: JANE DOE
+Respondent: JOHN DOE
+
+Case No. XXXXX-0000
+
+**RESPONDENT JOHN DOE'S RESPONSES TO PETITIONER JANE DOE'S REQUEST FOR PRODUCTION OF DOCUMENTS, SET ONE**
+
+- PROPOUNDING PARTY: Petitioner JANE DOE
+- RESPONDING PARTY: Respondent JOHN DOE
+- SET NUMBER: ONE (1)
+
+Respondent John Doe ("Responding Party") responds to the Request for Production of Documents, Set One, served by Petitioner Jane Doe ("Petitioner") on October 28, 2026. He responds under Code of Civil Procedure sections 2031.210 through 2031.250.
+
+## PRELIMINARY STATEMENT
+
+1. **Document identification.** Documents produced with these responses are identified by production identifiers ("DOC-___") and page numbers. They are also listed in Attachment A, which shows the request(s) to which each document responds (Code Civ. Proc., § 2031.280, subd. (a)). [Bates range to be applied–N2]
+
+2. **Objections.** Objections are stated separately in each response to which they apply. No general objection is incorporated into any response.
+
+3. **Privilege log.** Documents not produced on grounds of privilege or work-product protection are identified in Attachment B.
+
+## RESPONSES
+
+### REQUEST NO. 1
+*All statements for every account at any bank or financial institution in which YOU have or had any interest, for the past ten (10) years.*
+
+**RESPONSE TO REQUEST NO. 1:**
+
+**Objection.** The phrase "in which YOU have or had any interest" is vague and ambiguous. It could be read to reach accounts titled solely in Petitioner's name, in which Responding Party's only interest would be a claimed community-property interest.
+
+Responding Party construes the Request as follows:
+- **Accounts covered:** accounts at any bank or other financial institution held in his name individually or jointly, or as trustee, custodian, or nominee, or over which he has or had signature authority (consistent with Definition 4).
+- **Account types:** including checking, savings, credit card, loan, investment, and retirement accounts.
+- **Period:** October 28, 2016, through the date of this response.
+
+Statements for accounts held solely in Petitioner's name are not in Responding Party's possession, custody, or control. [CONFIRM–N5]
+
+Subject to this objection and construction, Responding Party will comply **in part**. All responsive documents within his possession, custody, or control will be produced, as follows.
+
+**(a) Bank A checking account ending XXXX-1111**
+
+- **Produced now:** DOC-001, pp. 1–9 (statements for March 2021, June 2021, November 2022, January–April 2023, August 2024, and December 2025).
+- **To be produced on receipt:** Bank A has advised in writing that it will mail statements for November 2019 through October 2026 (DOC-002). Responding Party will produce those statements within [__] days after receipt. He will also produce any later monthly statement issued on or before the date of production. [N3, N6]
+- **Statements for October 2016 through October 2019 — unable to comply:**
+  - A diligent search and a reasonable inquiry have been made in an effort to comply.
+  - Bank A no longer retains statements dated before November 2019 under its records-retention policy and cannot provide them (DOC-002).
+  - [Responding Party did not retain copies of those statements.] [CONFIRM–N6]
+  - Responding Party knows of no other person or organization believed to have possession, custody, or control of them. [CONFIRM–N6]
+
+**(b) Bank B checking account ending XXXX-2222**
+
+- **Produced now:** DOC-003, pp. 1–60 (monthly statements, November 2021 through October 2026).
+- **Before November 5, 2018 — unable to comply:** No statements exist for any period before November 5, 2018, because the account was opened on that date (DOC-004). This portion of the category has never existed.
+- **November 2018 through October 2021 — to be obtained and produced:**
+  - These statements exist. They are maintained by Bank B, Research Department, [address–N7].
+  - They are available to Responding Party upon request and payment of Bank B's copy charge (DOC-004).
+  - Responding Party will order these statements and will produce them within [__] days after receipt. [DECISION–N7]
+
+**(c) Lender L loan account ending XXXX-3101 (secured by House 1)**
+
+- **Produced now:** DOC-006, pp. 1–4 (loan payment history, April 1, 2018, through October 1, 2026).
+- [Responding Party will also produce the periodic loan statements for this account in his possession, custody, or control.] [CONFIRM–N8]
+
+**(d) Credit card accounts**
+
+[Responding Party will produce statements for the credit card accounts paid from the accounts identified above (designated "Card C" and "Card D" in those statements) for the period stated above.] [CONFIRM–N8]
+
+**(e) Other accounts**
+
+[Responding Party has held no other account responsive to this Request, as construed, during the period stated.] [CONFIRM–N8]
+
+**Related correspondence:** The Bank A and Bank B correspondence referenced above (DOC-002, DOC-004) is produced in response to Request No. 8.
+
+---
+
+### REQUEST NO. 2
+*All receipts for any purchase over $500 made by YOU during the marriage.*
+
+**RESPONSE TO REQUEST NO. 2:**
+
+**Construction.** Responding Party makes the following constructions:
+- **"During the marriage"** is construed consistently with Definition 7, as June 16, 2018, through January 1, 2026.
+- **"Purchase"** is construed as purchases of goods and services. Documents concerning the acquisition of real property and vehicles are addressed in the responses to Requests Nos. 3, 4, and 6.
+
+**Unable to comply.** Responding Party is unable to comply with this Request.
+- A diligent search, including of his paper records and electronic mail account(s), and a reasonable inquiry have been made in an effort to comply. [CONFIRM–N9]
+- Responding Party does not keep purchase receipts. To the extent receipts were issued to him at the time of purchase, they were not retained and are no longer in his possession, custody, or control. [CONFIRM–N9]
+- The merchants involved, and the issuers of the payment accounts used, may hold transaction records. The payment accounts are the Bank A and Bank B accounts and the credit card accounts identified in Response No. 1. [Card issuer names and addresses–N8]
+
+**Related production.** Without conceding that account statements are "receipts," Responding Party identifies the following, to the extent they reflect payments for purchases over $500 during the period stated:
+- the account statements produced or to be produced in response to Request No. 1;
+- DOC-001, pp. 1–9; and
+- DOC-003, pp. 1–51.
+
+---
+
+### REQUEST NO. 3
+*All DOCUMENTS RELATING TO the real property located in City A, including but not limited to purchase documents, title, loan documents, and records of every payment made on any loan secured by the property.*
+
+**RESPONSE TO REQUEST NO. 3:**
+
+**Objection — ambiguity.** "The real property located in City A" is vague and ambiguous. The Request refers to a single property, but Responding Party holds an interest in three properties located in City A:
+- House 1, [Address 1];
+- House 2, [Address 2]; and
+- House 3, [Address 3].
+
+Responding Party construes the Request to refer to all three properties and responds accordingly. [DECISION–N10]
+
+**Objection — overbreadth.** The phrase "all DOCUMENTS RELATING TO" is overbroad and unduly burdensome as applied to a residence and two other properties over a ten-year period. Read literally, it would reach every utility bill, routine maintenance invoice, and incidental communication mentioning any of the three properties.
+
+Responding Party will therefore produce documents concerning:
+- the acquisition of each property;
+- title;
+- loans secured by each property and payments on those loans;
+- property taxes and insurance; and
+- leasing and rent.
+
+**Objection — privilege.** Responding Party objects to the extent the Request seeks confidential communications between Responding Party and his counsel, counsel's staff, or a consultant retained by counsel to assist in this proceeding. Those communications are protected by the attorney-client privilege (Evid. Code, §§ 952, 954). Writings prepared by or for counsel are protected by the attorney work-product doctrine (Code Civ. Proc., § 2018.030). The documents not produced on these grounds are identified in Attachment B (Entries 1, 4, and 6).
+
+Subject to these objections, Responding Party will comply **in part**. All documents within the categories stated above that are in his possession, custody, or control, and to which no privilege objection is made, will be produced.
+
+**House 1**
+
+- **Purchase, title, and loan documents:** DOC-005, pp. 1–3 (final settlement statement, grant deed, and deed of trust recorded March 2, 2018).
+- **Loan payment records:** DOC-006, pp. 1–4 (Lender L payment history for every payment from April 1, 2018, through October 1, 2026). Bank A statements reflecting House 1 loan payments: DOC-001, pp. 6–7. Additional Bank A statements will be produced as stated in Response No. 1.
+- **Promissory note:** [Responding Party will produce his copy of the promissory note dated March 2, 2018.] / [Unable to comply. A diligent search and a reasonable inquiry have been made. Responding Party has no copy of the promissory note in his possession, custody, or control. The original is believed to be held by Lender L, [address].] [CONFIRM–N11]
+- **Other closing and escrow documents:** [Identify holder and address, or produce.] [CONFIRM–N11]
+
+**House 2**
+
+- **Title:** DOC-007 (grant deed recorded September 9, 2019).
+- **Loan documents and loan payment records — unable to comply:** A diligent search and a reasonable inquiry have been made. These documents have never existed: no loan has been secured by House 2, and the purchase price was paid in full at closing (see DOC-007). [CONFIRM–N11]
+- **Purchase and closing documents:** These are maintained by Escrow Company E, 200 Main Street, City A, CA 90000. [Responding Party will produce his copies.] / [Unable to comply as to Responding Party's own copies. A diligent search and a reasonable inquiry have been made, and such copies [were not retained / have not been located].] [CONFIRM–N11]
+
+**House 3**
+
+- **Title:** DOC-008 (grant deed recorded April 14, 2021).
+- **Loan documents and payment records:** [No loan has been secured by House 3; accordingly, no loan documents or loan payment records have ever existed.] / [Responding Party will produce the loan documents and payment records in his possession, custody, or control.] [CONFIRM–N11]
+- **Purchase and closing documents:** These are maintained by Escrow Company E, 200 Main Street, City A, CA 90000. [Produce or inability statement, as for House 2.] [CONFIRM–N11]
+- **Leasing and rent:** See Response No. 5, which is incorporated here. This includes DOC-001, pp. 2–9, and DOC-014, pp. 12, 15, 18, 21, and 24.
+
+**Property taxes and insurance**
+
+- Bank A statements reflecting property-tax and property-insurance payments: DOC-001, pp. 1–9. Additional Bank A statements will be produced as stated in Response No. 1.
+- [Property tax bills and insurance declarations in Responding Party's possession for each property will be produced.] [CONFIRM–N11]
+
+---
+
+### REQUEST NO. 4
+*All DOCUMENTS evidencing title to any real property in which YOU hold any interest.*
+
+**RESPONSE TO REQUEST NO. 4:**
+
+Responding Party will comply **in whole**. All responsive documents in his possession, custody, or control will be produced:
+
+- **House 1:** DOC-005, pp. 2–3 (grant deed and deed of trust recorded March 2, 2018).
+- **House 2:** DOC-007 (grant deed recorded September 9, 2019).
+- **House 3:** DOC-008 (grant deed recorded April 14, 2021).
+- [Owner's title insurance policies for these properties, if in Responding Party's possession.] [CONFIRM–N12]
+
+[Responding Party holds no interest, directly or through any entity or trust, in any other real property.] [CONFIRM–N12]
+
+---
+
+### REQUEST NO. 5
+*All leases, rental agreements, and records of rent received for any property YOU own or have owned.*
+
+**RESPONSE TO REQUEST NO. 5:**
+
+Responding Party will comply **in part**. All responsive records of rent received that are in his possession, custody, or control will be produced. As to the lease described below, he is unable to comply.
+
+**Records of rent received for House 3**
+
+- Bank A statements reflecting monthly rent transfers from Renter A: DOC-001, pp. 2–9.
+- The remaining Bank A statements for May 2021 through the present will be produced as stated in Response No. 1.
+- Rental income schedules for House 3 included with the parties' joint income tax returns: DOC-014, pp. 12, 15, 18, 21, and 24 (tax years 2021–2025).
+
+**Lease for House 3 — unable to comply**
+
+- A diligent search and a reasonable inquiry have been made in an effort to comply.
+- The item is the [written] lease or rental agreement for House 3 with Renter A, with a term commencing in or about May 2021.
+- This item [has never been in Responding Party's possession, custody, or control / is no longer in Responding Party's possession, custody, or control]. [CONFIRM–N13]
+- Persons believed to have possession, custody, or control of the lease:
+  - Renter A, 1458 Orchard Lane, City A, CA 90000.
+  - [Petitioner Jane Doe, if believed to hold a copy.] [CONFIRM–N13]
+
+**Other properties**
+
+[Responding Party has not leased, and has received no rent for, any other property during the Relevant Time Period.] [CONFIRM–N13]
+
+---
+
+### REQUEST NO. 6
+*All DOCUMENTS RELATING TO the purchase, sale, transfer, or other disposition of any vehicle during the marriage.*
+
+**RESPONSE TO REQUEST NO. 6:**
+
+**Construction.** "During the marriage" is construed consistently with Definition 7, as June 16, 2018, through January 1, 2026.
+
+**Objection — privilege.** Responding Party objects to the extent the Request seeks confidential communications between Responding Party and his counsel or counsel's staff (Evid. Code, §§ 952, 954). The documents not produced on that ground are identified in Attachment B (Entries 2 and 3).
+
+Subject to this objection, Responding Party will comply **in part**. He is unable to comply as to the remainder.
+
+**Produced**
+
+- Certificate of title for Car C (2022): DOC-010.
+- Account statements produced or to be produced in response to Request No. 1 (DOC-001; DOC-003; and the additional Bank A and Bank B statements described in Response No. 1), to the extent they reflect payments for, or proceeds of, the purchase or sale of a vehicle.
+
+**Unable to comply — purchase and sale documents for Car A, Car B, and Car C**
+
+- A diligent search and a reasonable inquiry have been made in an effort to comply.
+- The items are documents relating to:
+  - the purchase of Car A (2019), Car B (2020), and Car C (2022); and
+  - the private sale of Car A (2023) and Car B (2024).
+- These items were not retained by Responding Party and are no longer in his possession, custody, or control. [CONFIRM–N14]
+- Persons and organizations believed to have possession, custody, or control of these items:
+  - California Department of Motor Vehicles, [address] (transfer and registration records).
+  - [Name and address of the purchaser of Car A.]
+  - [Name and address of the purchaser of Car B.]
+  - [Name(s) and address(es) of the seller(s) or dealer(s) from which Cars A, B, and C were purchased.] [CONFIRM–N14]
+
+---
+
+### REQUEST NO. 7
+*All DOCUMENTS RELATING TO any safe deposit box in YOUR name or to which YOU have access, including an inventory of its contents.*
+
+**RESPONSE TO REQUEST NO. 7:**
+
+**Objection — privilege.** Responding Party objects to the extent the Request seeks confidential communications between Responding Party and his counsel (Evid. Code, §§ 952, 954). The document not produced on that ground is identified in Attachment B (Entry 8).
+
+Subject to this objection, Responding Party will comply **in part**. All other responsive documents in his possession, custody, or control will be produced, as follows.
+
+**Produced**
+
+- Bank B Safe Deposit Box Lease, Box No. XX-345, opened August 1, 2020: DOC-012.
+- Bank B statements reflecting the annual rental fee for Box No. XX-345:
+  - DOC-003, p. 10 (August 2022);
+  - DOC-003, p. 22 (August 2023);
+  - DOC-003, p. 34 (August 2024);
+  - DOC-003, p. 46 (August 2025); and
+  - DOC-003, p. 58 (August 2026).
+- Bank B statements for August 2020 and August 2021 will be produced on receipt, as stated in Response No. 1.
+
+**Inventory of contents — unable to comply**
+
+- A diligent search and a reasonable inquiry have been made in an effort to comply.
+- No inventory of the contents of Box No. XX-345 exists. This item has never existed:
+  - Bank B does not inventory or record the contents of any box (DOC-012); and
+  - [Responding Party has not prepared any inventory, list, or photographs of the contents.] [CONFIRM–N15]
+
+**Other boxes**
+
+[Responding Party has no other safe deposit box in his name or to which he has access.] [CONFIRM–N15]
+
+---
+
+### REQUEST NO. 8
+*All communications between YOU and any person RELATING TO YOUR finances, this dissolution proceeding, or the division of property.*
+
+**RESPONSE TO REQUEST NO. 8:**
+
+**Objection 1 — attorney-client privilege and work product.** The Request, read with Definition 1 (which defines "YOU" to include Responding Party's attorneys and accountants), seeks communications between Responding Party and his counsel of record and counsel's staff. It also seeks communications among counsel and a consultant retained by counsel to assist in this proceeding.
+
+- These communications are protected by the attorney-client privilege (Evid. Code, §§ 952, 954).
+- Writings reflecting counsel's impressions, conclusions, opinions, or research, and other writings prepared by or for counsel in this proceeding, are protected by the attorney work-product doctrine (Code Civ. Proc., § 2018.030).
+- The documents not produced on these grounds are identified in Attachment B (Entries 1–9).
+
+**Objection 2 — vague, overbroad, and unduly burdensome.**
+
+- **"YOUR finances."** Read literally, this phrase reaches every communication over more than ten years concerning any payment, purchase, or account. That includes routine merchant confirmations, marketing messages, and everyday household exchanges. The phrase is not reasonably particularized (Code Civ. Proc., § 2031.030, subd. (c)(1)).
+- **"Any person."** This phrase is unlimited.
+
+**Objection 3 — third-party privacy.** To the extent the Request seeks communications with third parties about matters unrelated to the parties' assets, debts, income, or the issues in this proceeding, it invades the constitutional privacy interests of those third parties (Cal. Const., art. I, § 1).
+
+**Extent of compliance.** Subject to these objections, Responding Party will comply **in part**. He construes this Request to seek non-privileged communications from January 1, 2016, through the date of this response between Responding Party and any of the following persons:
+
+- (a) Petitioner;
+- (b) any bank, lender, credit card issuer, escrow or title company, employer, or other financial institution;
+- (c) any tenant, vehicle purchaser, or vehicle seller; or
+- (d) any family member or other third party.
+
+The communications must concern the parties' assets, debts, income, or expenses, any payments toward or gifts of property, this proceeding, or the division of property. All such communications in his possession, custody, or control will be produced, including:
+
+- Bank A letter dated October 30, 2026: DOC-002.
+- Bank B secure message dated October 31, 2026: DOC-004.
+- [Additional communications located through the search described in Note N16, to be identified by production number.] [CONFIRM–N16]
+
+---
+
+### REQUEST NO. 9
+*All reports, analyses, and communications prepared by any accountant, appraiser, or other financial professional RELATING TO the marital estate.*
+
+**RESPONSE TO REQUEST NO. 9:**
+
+**Objection — privilege and work product.** Responding Party objects to the extent the Request seeks reports, analyses, and communications prepared by a consultant retained by Responding Party's counsel to assist counsel in this proceeding.
+
+- These writings are protected by the attorney work-product doctrine (Code Civ. Proc., § 2018.030). This includes absolute protection for writings reflecting impressions, conclusions, opinions, or theories (id., subd. (a)).
+- To the extent they are confidential communications made to assist counsel in rendering legal advice, they are protected by the attorney-client privilege (Evid. Code, §§ 952, 954).
+- The documents not produced on these grounds are identified in Attachment B (Entries 6 and 7).
+- Responding Party also objects to Definition 1 to the extent it purports to require production of counsel's files.
+
+**Objection — vague.**
+
+- **"Marital estate"** is vague. Responding Party construes it to mean property and obligations of either party that are subject to characterization, confirmation, or division in this proceeding.
+- **"Other financial professional"** is vague. Responding Party construes it to exclude routine account statements issued by financial institutions, which are produced in response to Request No. 1.
+
+**Extent of compliance.** Subject to these objections and constructions, Responding Party will comply **in part**. All non-privileged responsive documents in his possession, custody, or control will be produced, as follows:
+
+- The parties' joint federal and California income tax returns and accompanying workpapers for tax years 2018–2025, to the extent prepared by a tax preparer: DOC-014, pp. 1–24. [CONFIRM–N17]
+- [Responding Party has no appraisal, valuation, or financial-advisor report relating to the marital estate other than as identified in Attachment B.] [CONFIRM–N17]
+
+---
+
+### REQUEST NO. 10
+*All DOCUMENTS showing YOUR income from all sources from January 1, 2024, to the present.*
+
+**RESPONSE TO REQUEST NO. 10:**
+
+Responding Party will comply **in whole**. All responsive documents in his possession, custody, or control will be produced:
+
+- **Employer E wage statements:** 2024 and 2025 Forms W-2, and 2026 pay statements for each pay period from January 1 through October 31, 2026. DOC-013, pp. 1–22.
+- **2024 and 2025 joint income tax returns and rental income schedules:** DOC-014, pp. 19–24.
+- **Bank A statements reflecting payroll deposits and House 3 rent received:** DOC-001, pp. 8–9. The remaining Bank A statements for January 2024 through the present will be produced as stated in Response No. 1.
+- [Employer E pay statements for 2024 and 2025, and any 2026 pay statement issued after October 31, 2026, on or before the date of production.] [CONFIRM–N18]
+- [Responding Party has received no income from any other source during this period.] [CONFIRM–N18]
+
+---
+
+### REQUEST NO. 11
+*All federal and state income tax returns filed by YOU during the marriage.*
+
+**RESPONSE TO REQUEST NO. 11:**
+
+**Construction.** "During the marriage" is construed consistently with Definition 7, as June 16, 2018, through January 1, 2026.
+
+Responding Party will comply **in whole**. All responsive documents in his possession, custody, or control will be produced:
+
+- Joint federal (Form 1040) and California (Form 540) income tax returns, with accompanying workpapers, for tax years 2018 through 2024: DOC-014, pp. 1–21. [CONFIRM–N19]
+- [Any return filed during this period for tax year 2017, and any amended return.] [CONFIRM–N19]
+
+Although the returns for tax year 2025 appear to have been filed after January 1, 2026, they are produced in response to Request No. 10 (DOC-014, pp. 22–24).
+
+---
+
+### REQUEST NO. 12
+*All DOCUMENTS RELATING TO any jewelry, handbags, or other personal property of value acquired during the marriage.*
+
+**RESPONSE TO REQUEST NO. 12:**
+
+**Objection — vague and overbroad.** "Other personal property of value" is vague and overbroad. Any item of personal property has some value, so the phrase does not describe a category with reasonable particularity (Code Civ. Proc., § 2031.030, subd. (c)(1)).
+
+**Construction.** Responding Party construes the Request to seek documents relating to jewelry, handbags, watches, artwork, collectibles, vehicles, and other tangible personal property with an individual value exceeding $500. The value threshold follows Request No. 2. The items must have been acquired from June 16, 2018, through January 1, 2026 (Definition 7). Financial accounts are addressed in Request No. 1.
+
+**Objection — privilege.** Responding Party objects to the extent the Request seeks confidential attorney-client communications (Evid. Code, §§ 952, 954). See Attachment B (Entry 8).
+
+Subject to these objections and this construction, Responding Party will comply **in part**. All responsive documents in his possession, custody, or control will be produced, as follows.
+
+**Produced**
+
+- Certificate of title for Car C: DOC-010. See also Response No. 6.
+- Account statements produced or to be produced in response to Request No. 1, to the extent they reflect purchases of such property.
+- [Any appraisals, insurance schedules or riders, or estate or transfer documents relating to items within this construction.] [CONFIRM–N20]
+
+**Unable to comply — receipts**
+
+- As to receipts for such items, Responding Party incorporates his statement of inability in Response No. 2.
+- A diligent search and a reasonable inquiry have been made.
+- Any receipts issued were not retained and are no longer in his possession, custody, or control. [CONFIRM–N9, N20]
+
+---
+
+### REQUEST NO. 13
+*All statements, transaction histories, and wallet records for any cryptocurrency account, including Bitcoin, held by YOU or for YOUR benefit.*
+
+**RESPONSE TO REQUEST NO. 13:**
+
+Responding Party is unable to comply with this Request.
+- A diligent search and a reasonable inquiry have been made in an effort to comply.
+- No responsive documents have ever existed. Responding Party has not held any cryptocurrency account or wallet during the Relevant Time Period, and no such account or wallet has been held for his benefit. [CONFIRM–N21]
+- Responding Party knows of no person or organization having possession, custody, or control of any responsive document.
+
+---
+
+**Dated:** [__________]
+
+[COUNSEL NAME]
+Attorney for Respondent JOHN DOE
+*(Signature as to objections, Code Civ. Proc., § 2031.250, subd. (c).)* [UNSIGNED — pending attorney approval]
+
+---
+
+### VERIFICATION
+
+*[TO BE EXECUTED BY RESPONDENT ONLY AFTER REVIEW AND RESOLUTION OF ALL BRACKETED ITEMS — NOT YET VERIFIED]*
+
+I, John Doe, am the Respondent in this action. I have read the foregoing Respondent's Responses to Petitioner's Request for Production of Documents, Set One. I declare under penalty of perjury under the laws of the State of California that the factual statements in those responses are true and correct.
+
+Dated: __________ at __________, California.
+
+______________________________
+John Doe
+
+---
+
+### ATTACHMENT A — PRODUCTION INDEX
+
+| Production ID | Description | Pages produced | Responsive to Request No(s). |
+|---|---|---|---|
+| DOC-001 | Bank A checking XXXX-1111, available statements 2021–2025 | 1–9 | 1, 2, 3 (pp. 1–9), 5 (pp. 2–9), 6, 10 (pp. 8–9), 12 |
+| DOC-002 | Bank A letter re statement copies, Oct. 30, 2026 | 1 | 8 (referenced in 1) |
+| DOC-003 | Bank B checking XXXX-2222, Nov. 2021–Oct. 2026 | 1–60 | 1; 2 (pp. 1–51); 6; 7 (pp. 10, 22, 34, 46, 58); 12 |
+| DOC-004 | Bank B message re historical statements, Oct. 31, 2026 | 1 | 8 (referenced in 1) |
+| DOC-005 | House 1 settlement statement, grant deed, deed of trust | 1–3 | 3 (pp. 1–3), 4 (pp. 2–3) |
+| DOC-006 | Lender L House 1 loan payment history | 1–4 | 1, 3 |
+| DOC-007 | House 2 grant deed | 1 | 3, 4 |
+| DOC-008 | House 3 grant deed | 1 | 3, 4 |
+| DOC-010 | Car C certificate of title | 1 | 6, 12 |
+| DOC-012 | Bank B safe deposit box lease, Box XX-345 | 1 | 7 |
+| DOC-013 | Employer E 2024–2025 W-2s; 2026 pay statements | 1–22 | 10 |
+| DOC-014 | Joint federal and CA returns with workpapers, 2018–2025 | 1–24 | 3 and 5 (pp. 12, 15, 18, 21, 24); 9 (pp. 1–24); 10 (pp. 19–24); 11 (pp. 1–21) |
+| [Supplemental] | Bank A statements Nov. 2019–Oct. 2026; Bank B statements Nov. 2018–Oct. 2021; other items per bracketed responses | [TBD] | [TBD] |
+
+### ATTACHMENT B — PRIVILEGE LOG (PROPOSED)
+
+[FORMAT SUBJECT TO COUNSEL DECISION — N22]
+
+| Entry | Date | Author | Recipient(s) | Description | Privilege / Protection | Request No(s). |
+|---|---|---|---|---|---|---|
+| 1 | 10/29/2026 | Respondent | Paralegal, Respondent's counsel's office | Confidential note providing information to counsel's staff for purposes of legal representation | Attorney-client (Evid. Code §§ 952, 954) | 3, 8 |
+| 2 | 10/29/2026 | Respondent | Paralegal, Respondent's counsel's office | Confidential email providing information to counsel's staff for purposes of legal representation | Attorney-client | 6, 8 |
+| 3 | 10/29/2026 | Respondent | Attorney X | Confidential email requesting legal advice regarding discovery | Attorney-client | 6, 8 |
+| 4 | 10/30/2026 | Attorney X | Respondent | Confidential email providing legal advice regarding discovery and property issues | Attorney-client; attorney work product (CCP § 2018.030(a)) | 3, 8 |
+| 5 | 11/02/2026 | Attorney X | Respondent | Confidential email scheduling attorney-client conference | Attorney-client | 8 |
+| 6 | 11/05/2026 | Accountant Y (consultant retained by counsel) | Attorney X; cc: Respondent | Preliminary analysis prepared at the request of counsel | Attorney work product (CCP § 2018.030); attorney-client | 3, 8, 9 |
+| 7 | 11/09/2026 | Accountant Y (consultant retained by counsel) | Attorney X | Preliminary analysis prepared at the request of counsel | Attorney work product (CCP § 2018.030); attorney-client | 8, 9 |
+| 8 | 11/03/2026 | Respondent | Attorney X | Confidential email requesting legal advice regarding discovery | Attorney-client | 7, 8, 12 |
+| 9 | 10/29/2026 | Respondent | Paralegal, Respondent's counsel's office | Confidential note providing information to counsel's staff for purposes of legal representation | Attorney-client | 8 |
+
+*Internal key (do not serve):* Entry 1 = DOC-009; Entry 2 = DOC-011; Entry 3 = DOC-015; Entry 4 = DOC-016; Entry 5 = DOC-017; Entry 6 = DOC-018; Entry 7 = DOC-019; Entry 8 = DOC-020; Entry 9 = DOC-022.
+
+---
+---
+
+# PART TWO — COUNSEL-ONLY NOTES (PRIVILEGED / ATTORNEY WORK PRODUCT — DO NOT SERVE)
+
+## A. Procedure and Deadline
+
+### N1 — Response deadline
+
+**Proposed due date: Wednesday, December 2, 2026.**
+
+- **Calculation:** The RFP was served by mail on October 28, 2026, within California (case information). The response is due 30 days after service (CCP § 2031.260(a)), plus 5 calendar days for in-state mail service (CCP § 1013(a)). That totals 35 days, which falls on December 2, 2026, a Wednesday and not a court holiday.
+- **Alternative calculation:** Day 30 is November 27, the day after Thanksgiving and a judicial holiday. Rolling day 30 to the next court day and then adding 5 days would produce a later date. I recommend calendaring the earlier, conservative December 2 date.
+- **What was checked:** No court order, stipulation, or extension appears in the file. Please confirm none exists (L0.2).
+- **Waiver risk:** An untimely response waives objections, including privilege and work product (CCP § 2031.300(a)). It also exposes the client to a motion and sanctions (§ 2031.300(b)–(c)). Because the privilege objections in Requests 3, 6–9, and 12 matter, timely service is essential (L5.5, L8).
+- **Production timing:** The RFP demands production "within thirty (30) days." Section 2031.030(c)(2) requires at least 30 days, extended for mail service. Raising this is unnecessary if we serve on December 2. Note it only if an extension discussion arises.
+
+### N2 — Production format and Bates numbering
+
+- **Bates:** I recommend applying Bates numbers before service (for example, JD-000001 et seq.) and adding a Bates column to Attachment A. Internal DOC-___ identifiers are adequate but less conventional.
+- **Organization:** The RFP permits production "organized and labeled to correspond with the numbered requests" (Instruction 1; CCP § 2031.280(a)). Attachment A is designed to satisfy that.
+- **Decision needed:** confirm the format and the production date (concurrent with service, or a stated date).
+
+### N3 — Supplemental production commitments
+
+Several responses commit to producing documents later:
+- Bank A statements for November 2019–October 2026;
+- Bank B statements for November 2018–October 2021; and
+- card and loan statements.
+
+California does not impose a general duty to supplement RFP responses. However, once we commit in a verified response, we must follow through.
+
+- **Decision needed:** fill in the "[__] days after receipt" blanks (10 days suggested).
+- **Alternatives:**
+  - If the Bank A set arrives before service, which DOC-002 suggests (about three weeks from October 30, so roughly November 20), assign it a production number and produce it with the responses. Then revise Response 1(a).
+  - If it has not arrived, consider asking opposing counsel to agree to a later production date for those items only. Objections must still be served on time.
+
+## B. Facts Requiring Client Confirmation Before Verification
+
+None of the following is verified. Each bracketed item in Part One must be confirmed or revised. **The client may not sign the verification until every inability statement reflects a search he has actually performed** (CCP §§ 2031.230, 2031.250; L3.5, L4.1).
+
+### N4 — General search confirmation
+
+Every "diligent search and reasonable inquiry" statement in the draft is standard language drafted in advance. Confirm with the client that he has actually searched each of the following before he verifies:
+
+- paper files at his residence;
+- personal email account(s), including for e-receipts and bank or lender correspondence;
+- text messages;
+- online banking and lender portals;
+- the Employer E payroll portal; and
+- any cloud storage.
+
+### N5 — Request 1: Petitioner's brokerage account
+
+- **What the record shows:** DOC-014 workpapers list a brokerage account held by Jane, and they state that "John has no stock holdings" and does not possess her brokerage statements.
+- **Why confirmation is needed:** That statement is text inside a supplied record. It is not a verified fact, and the draft must not treat it as an instruction (S2).
+- **Confirm with the client:**
+  - he has no brokerage or investment account of his own; and
+  - he has no copies or online access to Jane's account.
+- **Strategic note:** If he has a community-interest claim to her account, our own discovery to Jane should request those statements.
+
+### N6 — Request 1: Bank A
+
+- **Earlier statements:** Confirm whether John has any copies, paper or downloaded, of Bank A statements before November 2019.
+  - Confirm whether he received paper statements or e-statements. This determines the correct inability category ("never in possession" versus "not retained / discarded").
+  - Confirm whether any tax preparer or advisor might hold copies. Those copies matter to his separate-property tracing (see N24).
+- **Mailing address risk:** Bank A will mail the set to the "address of record," which is [Address 2] (House 2) per DOC-001 and DOC-002. **Confirm where John currently lives and whether Petitioner has access to mail at House 2.** If Petitioner lives at House 2, redirect the request or arrange pickup.
+- **Existing request:** DOC-002 confirms that John requested statement copies and that Bank A agreed to mail them at no charge. Nothing in the file shows they have arrived. The draft therefore does not say they were received.
+
+### N7 — Request 1: Bank B older statements ($720)
+
+- **What the record shows:** DOC-004 states that 36 statements (November 2018–October 2021) are available from Bank B's Research Department at $20 each ($720), delivered within 10 business days after payment.
+- **Analysis:** These records exist and are obtainable by the account holder on request. That places them within John's "control." A $720 fee does not make compliance an undue burden or "impossible" (L4.1, L5.7).
+  - Measured against a Bank B balance of over $2.1 million, the fee is modest.
+  - These are the only statements that can show how Bank B was funded: the account was opened November 5, 2018, during the marriage. From November 2021 forward, the only deposit is the $50,000 transfer of December 10, 2025 (DOC-003, p. 50).
+  - Do not cite *Ryan v. Superior Court* (1960) 186 Cal.App.2d 813 for a burden argument about RFP copy fees. It concerned interrogatory compilation under former law (L5.7).
+- **Recommendation:** Obtain client authorization to pay and order now, so the statements arrive close to the response date.
+- **Decision needed:** client authorization, and counsel's approval of the commitment language.
+- **Alternatives (not recommended):**
+  - object on burden and direct Petitioner to subpoena Bank B; or
+  - propose cost-sharing.
+- **Address needed:** obtain Bank B Research Department's address for the response. Do not invent it.
+
+### N8 — Request 1: other accounts
+
+**Credit cards ("Card C" and "Card D").** Bank A pays "CARD C" (about $2,900–$3,700 per month) and Bank B pays "CARD D" (about $360–$570 per month). Confirm:
+- the issuer and holder of each card;
+- whether either is joint or has authorized users;
+- the issuer names and addresses (also needed for Request 2); and
+- that John can download statements for the period.
+
+These statements are likely responsive to Requests 1, 2, and 12.
+
+**Lender L.** Confirm whether periodic mortgage statements are available through the Lender L portal. Obtain Lender L's address; the file shows only "[Address of Lender L]."
+
+**Other accounts.** Ask specifically about:
+- any 401(k) or other retirement account through Employer E (the pay stubs show no deferral, but confirm);
+- IRAs, HSAs, savings accounts, CDs, and lines of credit;
+- accounts at any other institution since October 2016; and
+- any account on which John has signature authority (for example, a parent's account).
+
+### N9 — Requests 2 and 12: receipts
+
+- **What the record shows:** DOC-022 says, "I don't keep receipts."
+- **Confirm:**
+  - whether paper receipts were received and discarded (draft: "not retained / no longer in possession") or whether some purchases generated no receipt; and
+  - whether he has searched his email for electronic receipts and order confirmations over $500. If any are found, change the disposition to partial compliance and produce them.
+- **Car C:** The Car C purchase paperwork (2022) would be a responsive "receipt" if it existed; DOC-011 says none was kept.
+- **Interpretation:** I read "receipts" as excluding real property escrow documents. Those are addressed in Requests 3 and 4. See N10.
+
+### N10 — Request 3: which "real property in City A"
+
+All three houses are in City A (DOC-005, -007, -008). The Request says "the real property," singular, but its emphasis on loans and loan payments suggests Petitioner may be targeting House 1, the only property with a recorded deed of trust.
+
+- **Draft approach:** object to the ambiguity and respond for all three houses, so we cannot be accused of narrowing silently (L5.3, L5.4). Houses 2 and 3 are titled to both spouses as community property, so producing their records discloses little that Petitioner lacks.
+- **Decision needed:**
+  - Option 1: keep the all-property reading.
+  - Option 2: meet and confer and narrow the response to House 1. This option risks a motion and duplicative effort later.
+
+### N11 — Request 3: property-specific facts to confirm
+
+**House 1**
+- whether John has a copy of the March 2, 2018 promissory note;
+- the identity and address of the House 1 escrow company (not in the file);
+- whether he has other closing documents;
+- whether House 1 is rented or occupied (see N13); and
+- whether he has property tax bills or insurance documents. House 1 taxes and insurance appear to be paid through the Lender L escrow (DOC-006: $229.15 per month).
+
+**House 2**
+- Confirm that no loan or HELOC has encumbered House 2 since purchase. DOC-007 states only that no deed of trust was recorded at purchase and that the price was paid in full at closing.
+- Confirm whether John has his own copies of the escrow file. Escrow Company E's address comes from the case information.
+
+**House 3**
+- DOC-008 is silent about financing. **Confirm whether House 3 was purchased with a loan or later encumbered.** If so, those loan documents and payment records must be produced.
+- Confirm whether John has escrow copies.
+
+**Property taxes and insurance**
+- Bank A shows "COUNTY TAX COLLECTOR" payments of $6,700 (DOC-001, pp. 7, 9) and "INSURER I / PROPERTY COVER" payments of $285 (all pages).
+- Confirm which property or properties these cover, and whether John holds the related tax bills and insurance declarations.
+- The draft identifies the bank pages without attributing them to a specific property.
+
+### N12 — Request 4: title policies and other interests
+
+Confirm:
+- whether John holds owner's title insurance policies; and
+- that he has no interest in any other real property anywhere, including through an LLC, trust, partnership, timeshare, or inheritance (Definition 5 reaches equitable and entity interests).
+
+### N13 — Request 5: House 3 lease and other rentals
+
+- **What the record shows:** DOC-009 says, "I never kept a copy of the lease, and I can't find it anywhere."
+- **Confirm:**
+  - whether a written lease exists. "The lease" implies one does.
+  - Whether John ever had a copy. "Never kept a copy" could mean he never received one, or that he received one and did not retain it. The two lead to different § 2031.230 categories.
+  - Who signed as lessor.
+  - Whether Petitioner, a co-owner of House 3, may hold a copy. If so, she must be listed as a person believed to have it.
+  - Whether a property manager was involved.
+- **Renter A's address:** The draft lists Renter A's name and address as § 2031.230 requires, using the address supplied in DOC-009 (1458 Orchard Lane). Confirm whether that is House 3's address or a separate address. The tenant's telephone number and email are not required and are omitted.
+- **Option to cure:** Counsel may consider asking the client to request a copy of the lease from Renter A. If it is obtained before service, produce it. The draft does not suggest that any such request has been made.
+- **Other rentals:** Confirm that House 1 was never rented. Bank A shows rent only from Renter A, and only partial statements are in hand. Confirm no other rent was received.
+- **Consistency check:** The rent figures are consistent across sources. The 2021 workpaper shows $28,000 for May–December, which is 8 × $3,500. Later years show $42,000, which is 12 × $3,500.
+
+### N14 — Request 6: vehicles
+
+**What the record shows:** DOC-011 (to the paralegal) lists Car A (2019), Car B (2020), and Car C (2022). It states that Cars A and B were sold privately in 2023 and 2024, that no paperwork was kept, and that "the DMV would have the transfer records."
+
+**Information needed for the § 2031.230 statement:**
+- names and addresses of the Car A and Car B purchasers;
+- names and addresses of the sellers or dealers for all three cars; and
+- the DMV address to be used. Verify it; it was not supplied.
+
+**Additional confirmations:**
+- how title to Cars A and B was held;
+- how Cars A, B, and C were paid for (the source may appear in the Bank A and B statements still to come); and
+- whether any electronic bill of sale, release of liability, or text or email with a buyer exists. Such items would be responsive.
+
+**Important — non-privileged facts disclosed in a privileged email.** DOC-015 (privileged) states that Car A sold for $50,000 and Car B for $7,500, both paid by check into Bank A. It also states that **the Car B buyer paid an additional $20,000 in cash that was never deposited.**
+
+- The communication is privileged. **The underlying facts are not** (S6).
+- The forthcoming Bank A statements should show the $50,000 and $7,500 deposits (2023 and 2024). Those months are not among the nine in DOC-001.
+- The draft refers to bank statements only "to the extent they reflect" vehicle proceeds. It does not represent that the bank records capture the full sale prices.
+- **Before verification, counsel must:**
+  - confirm where the $20,000 is now (for example, whether it is in the safe deposit box);
+  - ensure it is disclosed as required in the declaration of disclosure (N26); and
+  - ensure that no verified response, interrogatory answer, or testimony implies that the Car B sale price was $7,500.
+
+### N15 — Request 7: safe deposit box
+
+**What the record shows:**
+- DOC-012 shows Box XX-345 at Bank B, with John as sole renter and no deputy, opened August 1, 2020, during the marriage.
+- DOC-003 shows the annual $250 fee each August.
+- DOC-020 (privileged) states the box contains about $80,000 in cash, which John says predates the marriage, and "some of my grandfather's watches."
+
+**Confirm:**
+- John has never made a written list, photographs, or other record of the contents. If he has, that record is responsive.
+- He has no other box.
+- Whether any of the Car B cash (N14) is in the box.
+
+**Inventory:** The RFP does not require John to create an inventory that does not exist. Expect Petitioner to follow up with:
+- a demand to inspect the box (CCP § 2031.010(c));
+- interrogatories; or
+- a request for a court-supervised inventory.
+
+**Client pressure:** See N25. **The response cannot deny the box.**
+
+### N16 — Request 8: search scope
+
+The draft commits to producing non-privileged communications in the four categories (a)–(d). Before verification, the client must actually search for and collect them, including:
+
+- **With Petitioner:** texts and emails about money, the houses, cars, payments, and division.
+- **With institutions:** Bank A, Bank B, Lender L, Escrow Company E, Employer E (compensation), and card issuers.
+- **With Renter A, car buyers, and car sellers.**
+- **With Parent A about the House 1 mortgage payments (July 2018–June 2021; DOC-006).** These communications are responsive and material.
+  - They may support or undercut the argument that Parent A's payments were gifts to John alone.
+  - Accountant Y cautions that the gift argument depends on documents not yet seen (DOC-018).
+  - Any such communications must be produced if they fall within the stated scope. They cannot be withheld because they are unhelpful.
+
+**Time period:** I used the default Relevant Time Period (January 1, 2016, to present) rather than the marriage date. This avoids a narrowing dispute and captures premarital communications relevant to John's own separate-property claims.
+
+**Decision needed:**
+- approve the categorical construction;
+- decide whether to propose the same construction in a meet-and-confer letter; and
+- consider whether categories (a)–(d) are too broad for John's interests or too narrow to withstand a motion.
+
+### N17 — Request 9: tax preparer and appraisals
+
+- **Tax preparer:** Confirm who prepared the 2018–2025 returns. If John and Jane prepared them themselves, the DOC-014 workpapers were not "prepared by" a financial professional; delete that bullet from Response 9. Also confirm whether John has preparer correspondence or engagement letters.
+- **Other professionals:** Confirm whether any appraisal, broker opinion of value, or financial-advisor report exists for any house, vehicle, watch, or other asset.
+
+### N18 — Request 10: income
+
+- Confirm whether 2024 and 2025 pay stubs are available from the Employer E portal. They are within "all DOCUMENTS showing income" and should be produced if obtainable.
+- Confirm that John has no other income since January 1, 2024, such as:
+  - bonuses, RSUs, or other equity;
+  - side work;
+  - interest or dividends (both bank accounts are non-interest-bearing per the statement terms); or
+  - gifts or loans received.
+- Note that House 3 rent continues to be deposited into John's separate-name Bank A account after separation. See N24.
+
+### N19 — Request 11: filing dates and other returns
+
+**Filing dates:** The file contains no filing dates. The draft assumes:
+- tax years 2018–2024 were filed within the defined marriage period (June 16, 2018–January 1, 2026); and
+- tax year 2025 was filed after separation.
+
+Confirm actual filing dates, and confirm whether:
+- John's tax year 2017 individual return was filed on or after June 16, 2018 (for example, on extension). If so, it is within the defined period.
+- Any amended returns exist.
+
+**Defined period applied:** The response applies Definition 7 because the request is limited to "during the marriage." That is not a concession that the marriage ended on the date of separation (L1.2). The 2025 returns are produced anyway under Request 10.
+
+**Taxpayer privilege:** California recognizes a taxpayer privilege (see *Webb v. Standard Oil Co.* (1957) 49 Cal.2d 509; *Schnabel v. Superior Court* (1993) 5 Cal.4th 704). Verify these citations before any use. I do not recommend asserting it here, for three reasons:
+- the returns are joint returns Petitioner co-filed and received;
+- income and property are at the center of this proceeding; and
+- returns are separately required for disclosure.
+
+Social Security numbers are already masked in DOC-014.
+
+**Decision needed:** confirm no tax-privilege objection.
+
+### N20 — Request 12: personal property
+
+Confirm:
+- When and how John acquired his grandfather's watches. If they were inherited or gifted between June 16, 2018 and January 1, 2026, they are "acquired during the marriage" even though likely separate property (Fam. Code § 770). Any estate, probate, or transfer documents and any appraisals or insurance riders would then be responsive.
+- Whether he bought jewelry or handbags over $500, including for Jane, and whether any appraisals or insurance schedules exist.
+- Whether any other items over $500 were acquired (art, collectibles, electronics).
+
+**Decision needed:** approve the $500 threshold construction. It is borrowed from Request 2. A lower threshold or no threshold is an option.
+
+### N21 — Request 13: cryptocurrency
+
+There is no evidence of cryptocurrency in the file. The "never existed" disposition is **provisional**. Before verification, confirm that John:
+- has never had an account at any exchange, such as Coinbase, Kraken, or Robinhood crypto;
+- has never had a self-custody wallet, hardware wallet, or seed phrase; and
+- has no cryptocurrency held for him by anyone, including family or an employer plan.
+
+The bank statements in hand show no exchange transfers, but most months are missing.
+
+## C. Privilege and Work Product — Analysis for Counsel
+
+### N22 — Privilege log format (decision required)
+
+- **The RFP's demand:** Instruction 2 demands a log with date, author, recipients, subject matter, and privilege.
+- **The governing rule:** CCP § 2031.240(c)(1) requires "sufficient factual information" to evaluate the claim, "including, if necessary, a privilege log." A log is not automatically required in every circumstance, nor never required (L6.5).
+- **Draft approach:** Attachment B is an item-level log with neutral descriptions. Its subject-matter descriptions are generic so that it reveals no advice, admissions, or analysis. In particular, it does not reveal:
+  - the move-money question;
+  - the car sale prices or the cash;
+  - the safe deposit contents;
+  - counsel's reimbursement concession;
+  - the gift theory; or
+  - the accountant's figures or dissipation view.
+- **Alternative:** A categorical description for post-service communications with litigation counsel and counsel's consultant, for example: "Communications between Respondent and his counsel of record and counsel's staff and retained consultant, October 29, 2026 to present, concerning this proceeding." Many practitioners use this approach. It risks a challenge that it does not provide "sufficient factual information."
+- **Decision needed:** choose the format. Even if no log is served, an internal record should be kept.
+
+### N23 — Merits of each protection claim (L6.1–L6.6)
+
+The "PRIVILEGED & CONFIDENTIAL" labels on DOC-016 and DOC-018 are not dispositive. The analysis turns on purpose, participants, and confidentiality.
+
+**DOC-009, DOC-011, DOC-022 (client to paralegal)**
+- These are confidential communications from the client to the attorney's agent, made to obtain legal services (Evid. Code §§ 952, 954).
+- They are likely privileged.
+- The **underlying facts** they contain are not privileged: no receipts, no car paperwork, the lease missing, and Renter A's identity. Those facts are disclosed through the inability statements.
+
+**DOC-015 and DOC-020 (client to attorney)**
+- These are requests for advice and are privileged.
+- The facts they reveal (car prices, $20,000 cash, box contents) must still be disclosed through the proper channels (N14, N15, N26).
+
+**DOC-016 (attorney to client)**
+- This is legal advice, and is privileged.
+- It also reflects counsel's assessment of the House 1 reimbursement exposure and strategy, which is core work product (CCP § 2018.030(a)).
+
+**DOC-017 (call scheduling)**
+- This is a confidential lawyer-client communication. Under § 952 it is likely privileged regardless of how mundane its content.
+- It is arguably not even "relating to" finances or division. It is logged out of caution.
+- **Decision:** log it, or treat it as non-responsive.
+
+**DOC-018 and DOC-019 (Accountant Y)**
+- DOC-016 indicates that counsel engaged Accountant Y ("I'm also asking Accountant Y…"), and DOC-018 recites that the work was "prepared at the request of counsel."
+- **Confirm that the engagement runs through counsel** (an engagement letter from the firm). If it does:
+  - The analyses are work product, and the impressions and opinions in them have absolute protection: the preliminary principal split, the gift caution, and the "ordinary savings, not dissipation" view (CCP § 2018.030(a); *National Steel Products Co. v. Superior Court* (1985) 164 Cal.App.3d 476 — verify before citing).
+  - They are also likely privileged under § 952, because disclosure to the consultant was reasonably necessary to accomplish counsel's purpose.
+- **Copying the client:** Copying John on DOC-018 does not waive protection; he is the holder.
+- **Expert designation risk:** If Accountant Y is later designated as an expert witness (CCP § 2034.210 et seq.), protection over the expert's work and reports may be lost or narrowed. Keep this in mind before designation, and consider whether a separate, non-testifying consultant is preferable.
+- **Inconsistency to resolve:** DOC-019 says John gave Accountant Y Bank A statements "missing most months." That is consistent with DOC-001 but shows the accountant holds client copies. Ensure everything given to the accountant is also produced if responsive. Underlying business records do not become protected by being sent to a consultant (L6.1).
+
+**Confidentiality and access — confirm (L6.2, L6.6)**
+- whether John's email account (john.doe@mail.example) or any device he used is shared with, or accessible to, Petitioner (for example, a family computer, synced phone, or shared password);
+- whether any of these emails were forwarded to anyone; and
+- whether Petitioner has access to mail at House 2 (N6).
+
+Any of these could raise a confidentiality or waiver issue. None appears in the file.
+
+### N23A — Missing DOC-021
+
+The production set jumps from DOC-020 to DOC-022. Determine what DOC-021 is (or whether the number was skipped), whether it is responsive, and whether it is privileged. Do not serve until this is resolved. I have not guessed at its content.
+
+## D. Strategic and Substantive Issues for Counsel
+
+### N24 — Tracing and characterization (internal context)
+
+**House 1**
+- Deeded to John as an unmarried man, as sole and separate property, on March 2, 2018, before the marriage (DOC-005).
+- The $700,000 down payment came from Bank A (DOC-005, p. 1).
+- Loan payments (DOC-006) were made:
+  - by John for April–June 2018 (May and June 1 were before the June 16 marriage);
+  - by Parent A for July 2018–June 2021;
+  - by "Jane Doe" for July 2021–February 2023 and July 2023–December 2025;
+  - by John for March–June 2023 (matching DOC-001, pp. 6–7); and
+  - by John from January 2026 onward.
+- Producing these records is required regardless of the separate-property position (L1.3).
+- Payments made in Jane's name during the marriage support a community claim. Counsel's internal assessment is in DOC-016 and DOC-018 and must stay out of the external response.
+
+**Bank A**
+- Pre-November 2019 statements are unavailable from the bank (DOC-002). That gap hurts **John's** ability to trace the $700,000 down payment and the premarital Bank A balance as separate property.
+- Locating his own copies (N6) is in his interest.
+
+**Bank B**
+- The account was opened during the marriage, and its roughly $2.1 million balance predates the November 2021 statements in hand.
+- Absent tracing, it is presumptively community property. The November 2018–October 2021 statements (N7) are essential to any separate-property tracing.
+
+**The $50,000 transfer**
+- The December 10, 2025 transfer from Bank A to Bank B, three weeks before separation, appears in DOC-001, p. 9 and DOC-003, p. 50.
+- Both pages are being produced. Expect Petitioner to question it.
+- Accountant Y's preliminary "ordinary savings" view is work product and must not be disclosed.
+
+**Post-separation rent**
+- House 3 (community property) rent continues to flow into John's individually titled Bank A account. Expect accounting and *Epstein*/*Watts*-type issues. Verify any authority before relying on it.
+
+### N25 — Client requests that cannot be followed (S3, S4)
+
+**DOC-015: "should I move some of the cash from Bank A into Bank B so the Bank A balance looks lower?"**
+- Counsel already advised against this (DOC-016).
+- **Confirm with the client that no transfer has occurred since October 29, 2026.** The incoming Bank A statements (through October 2026) and future statements will show any movement.
+- **Legal risks:**
+  - If the summons included the standard automatic temporary restraining orders (Fam. Code § 2040; confirm), transfers outside the usual course could violate them.
+  - A transfer made to make a balance "look lower" would be concealment.
+  - It would raise breach-of-fiduciary-duty exposure (Fam. Code §§ 721, 1100, 1101, 2102) and sanctions risk (Fam. Code § 271; CCP § 2023.010 et seq.).
+- Nothing about this request appears in the external response.
+
+**DOC-020: "Please don't give Jane anything about my safe deposit box. Can we just say I don't have one?"**
+- **The response cannot deny the box.** It must produce the box lease and fee records, as drafted.
+- A denial would be a false verified statement. The Bank B statements being produced show the annual box fee five times in any event (DOC-003, pp. 10, 22, 34, 46, 58).
+- Counsel cannot participate in concealing evidence or in a false statement (see Cal. Rules of Prof. Conduct, rules 3.3 and 3.4; Bus. & Prof. Code § 6068(d) — verify before citing).
+- **Recommend a client conversation.** Disclosure is mandatory. It does not concede characterization: premarital cash and inherited watches can still be claimed as separate property, but John bears the tracing burden.
+- The legitimate protection is limited. The RFP does not require him to create an inventory, and his communications with counsel remain privileged. The draft preserves both.
+
+**Embedded statements in records (S2).** Statements inside supplied records were treated as evidence to evaluate, not as instructions:
+- DOC-014's "John has no stock holdings";
+- the privilege labels; and
+- the positions stated in DOC-016.
+
+### N26 — Mandatory disclosure track (separate from the RFP; L0.3)
+
+The file does not show whether preliminary or final declarations of disclosure (FL-140, FL-142 or FL-160, FL-150) have been served (Fam. Code §§ 2104, 2105). The duty to disclose is continuing and must be updated for material changes (Fam. Code §§ 2100(c), 2102).
+
+**Items that must be accurately disclosed regardless of how the RFP is answered:**
+- Houses 1–3 and the Lender L loan;
+- Bank A and Bank B, including current balances;
+- Car C;
+- **the safe deposit box and its contents** (about $80,000 cash and the watches), with any separate-property claim stated;
+- **the undeposited $20,000 Car B cash**, or what became of it;
+- the Card C and Card D balances; and
+- any retirement accounts or other assets identified in N8 and N20.
+
+**Consequences of nondisclosure:** Fam. Code §§ 2107 and 271 sanctions, and potential set-aside or Fam. Code § 1101 remedies.
+
+**Decision needed:** confirm disclosure status and schedule updates. RFP responses do not satisfy the disclosure obligation, and the disclosure obligation does not excuse deficiencies in the RFP responses.
+
+### N27 — Burden and other objections considered but not used (L5.1)
+
+**No ten-year time objection to Request 1.** Premarital records support John's own separate-property claims, and the request is facially relevant to tracing.
+
+**No "equally available" or "Petitioner has a copy" objection.** I did not use this to omit documents Petitioner may already have, such as the joint tax returns, House 2 and 3 deeds, and the DOC-006 entries showing her own payments (L5.6).
+
+**No privacy objection to income or tax records.** Both are central to support and property issues.
+
+**Objections retained:** only those tied to specific terms:
+- Request 1: "any interest";
+- Request 3: singular property, and "RELATING TO";
+- Request 8: "finances," "any person," and Definition 1;
+- Request 9: "marital estate," "financial professional," and Definition 1;
+- Request 12: "of value"; and
+- privilege where it actually applies.
+
+**Decision needed:** confirm the objection set. The constructions in Requests 1, 3, 8, 9, and 12 are proposed readings that counsel has not yet approved (L5.4).
+
+### N28 — Risk summary (L8)
+
+**Highest risks:**
+1. a late response, which waives the privilege and work-product objections;
+2. verifying inability statements before searches are actually done;
+3. any incomplete or misleading treatment of the safe deposit box, the $20,000 cash, or the car proceeds; and
+4. failing to follow through on the promised Bank A and Bank B supplemental production.
+
+Each could lead to a motion to compel further responses (CCP § 2031.310), monetary sanctions, or issue or evidentiary consequences.
+
+No sanction, waiver ruling, or approval has occurred. This draft has not been approved, verified, or served.

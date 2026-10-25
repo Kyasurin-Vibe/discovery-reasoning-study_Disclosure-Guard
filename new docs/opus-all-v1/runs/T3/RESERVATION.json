@@ -1,0 +1,10 @@
+{
+  "profile": "principles-example-open-medium-v2",
+  "package_id": "T3",
+  "response_source": "live_api",
+  "input_sha256": "4e9e55b80808f34eb0fff4ba86a808012d945f2bf719c822903c8292443ccfc7",
+  "grading_sha256": "19dc0e9270ed92242eef2b0026dd5e47a4fa132912f7bc3b981a650206d5576f",
+  "release_sha256": "6391267f38cc5aae04e827d3255555705497f87a37b1c3fdc0d324dc22265f93",
+  "stage": "draft",
+  "judge": "none"
+}

@@ -1,0 +1,29 @@
+{
+  "profile": "free-review-v2-full-materials",
+  "judge": "anthropic/claude-fable-5-1",
+  "config": {
+    "max_retries": 2,
+    "max_connections": 1,
+    "max_tokens": 64000,
+    "cache_prompt": false,
+    "effort": "medium"
+  },
+  "stop_reason": "stop",
+  "usage": {
+    "input_tokens": 127045,
+    "output_tokens": 16694,
+    "total_tokens": 143739,
+    "input_tokens_cache_write": 0,
+    "input_tokens_cache_read": 0,
+    "reasoning_tokens": 9826,
+    "total_cost": null
+  },
+  "answer_sha256": "ee3fbd1fcd6e1898524430a51d00f7d81b9b938aa4fb5ab1767eb5201cd2c1d6",
+  "input_sha256": "80687a2797de79f9ae0fa0114eb022bb775854d591e31f504ddd1577a00b1500",
+  "grading_sha256": "19dc0e9270ed92242eef2b0026dd5e47a4fa132912f7bc3b981a650206d5576f",
+  "judge_request_sha256": "c3ff0c500d47eb3a1965eb7328eea397cbcdbe759533a6975a4d31473005106f",
+  "answer_run_id_source": "new docs/optimized-v2/runs/base-v2/SOURCE.json",
+  "saved_at": "2026-10-24T10:35:54.998945+00:00",
+  "attempts": 1,
+  "format_check": "none (author reviews the raw text)"
+}

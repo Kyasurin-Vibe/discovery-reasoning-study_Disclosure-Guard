@@ -1,0 +1,5 @@
+# Eval dependencies (versions verified 2026-10-23). Install: uv pip install --python .venv/bin/python -r requirements.txt
+inspect_ai==0.3.282
+anthropic==1.15.0
+pypdf==6.21.1
+pytest==9.1.1

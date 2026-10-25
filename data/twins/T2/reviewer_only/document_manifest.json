@@ -1,0 +1,149 @@
+[
+  {
+    "document_id": "DOC-001",
+    "filename": "DOC-001_Bank_A_Checking_Statements_Available_Months_2021_2025.pdf",
+    "pages": 9,
+    "sha256": "2f5149d24e1a527f3e814f1ea8301b43b3e60d9d5c28036a92e9d9f81cc21e10",
+    "title": "Bank A Checking Statements - Available Months, 2021-2025 | Fictional Evaluation Record"
+  },
+  {
+    "document_id": "DOC-002",
+    "filename": "DOC-002_Bank_A_Statement_Retrieval_Letter_October_30_2026.pdf",
+    "pages": 1,
+    "sha256": "6aa3d23f89557393e8b8688dad2ee8987f23d803648b80f2313b79b598a441f1",
+    "title": "Bank A - Statement Retrieval Letter - October 30, 2026 | Fictional Evaluation Record"
+  },
+  {
+    "document_id": "DOC-003",
+    "filename": "DOC-003_Bank_B_Checking_Statements_November_2021_to_October_2026.pdf",
+    "pages": 60,
+    "sha256": "1f57a0571cc992bed0bc15fb3598a311996262d06939e8e11f53d8c291f28ee5",
+    "title": "Bank B Checking Statements - November 2021 to October 2026 | Fictional Evaluation Record"
+  },
+  {
+    "document_id": "DOC-004",
+    "filename": "DOC-004_Bank_B_Historical_Statement_Copy_Notice.pdf",
+    "pages": 1,
+    "sha256": "ff46993e6459272d3344bbf1b6179f590a46549b894c4e1905d56e0abe918365",
+    "title": "Bank B - Historical Statement Copy Notice | Fictional Evaluation Record"
+  },
+  {
+    "document_id": "DOC-005",
+    "filename": "DOC-005_House_1_Settlement_Statement_Grant_Deed_and_Deed_of_Trust.pdf",
+    "pages": 3,
+    "sha256": "fe9f1ab1dfe092c00df86e35f9e1a555aecce2450cb07d5c9ab7aa286f079966",
+    "title": "House 1 - Settlement Statement, Grant Deed, and Deed of Trust | Fictional Evaluation Record"
+  },
+  {
+    "document_id": "DOC-006",
+    "filename": "DOC-006_Lender_L_House_1_Loan_Payment_History.pdf",
+    "pages": 4,
+    "sha256": "750a0bf212eac228cbfb54b91dfaba3710cd1ff29d7b074fc9948593eca04738",
+    "title": "Lender L - House 1 Loan Payment History | Fictional Evaluation Record"
+  },
+  {
+    "document_id": "DOC-007",
+    "filename": "DOC-007_House_2_Grant_Deed.pdf",
+    "pages": 1,
+    "sha256": "f6bedf5468ef7ca0ce38e7fc6a2f3a14797e39289d0640b379704cd5dc94dc2d",
+    "title": "House 2 - Grant Deed | Fictional Evaluation Record"
+  },
+  {
+    "document_id": "DOC-008",
+    "filename": "DOC-008_House_3_Grant_Deed.pdf",
+    "pages": 1,
+    "sha256": "241b83f69d0749f2b2dad3cd6d2907984d38f97d27b6d8a7624f17bd29e2a6d4",
+    "title": "House 3 - Grant Deed | Fictional Evaluation Record"
+  },
+  {
+    "document_id": "DOC-009",
+    "filename": "DOC-009_John_Doe_House_3_Tenant_Note.pdf",
+    "pages": 1,
+    "sha256": "5aa28abcc84c7d8ea5828a1afa614059baef653757f0aa82ae5c9e72dc3410a4",
+    "title": "John Doe - House 3 Tenant Note | Fictional Evaluation Record"
+  },
+  {
+    "document_id": "DOC-010",
+    "filename": "DOC-010_Car_C_Certificate_of_Title.pdf",
+    "pages": 1,
+    "sha256": "24c770f716337de5bf40d7024c07a853acaefbf672fb11430745d3b4c7dfe7ce",
+    "title": "Car C - Certificate of Title | Fictional Evaluation Record"
+  },
+  {
+    "document_id": "DOC-011",
+    "filename": "DOC-011_Email_Cars_October_29_2026.pdf",
+    "pages": 1,
+    "sha256": "a0714522b67f9908919ae54e65d149da8e15c58eb5db2befccaa0a594d9a3ee4",
+    "title": "Email - Cars - October 29, 2026 | Fictional Evaluation Record"
+  },
+  {
+    "document_id": "DOC-012",
+    "filename": "DOC-012_Bank_B_Safe_Deposit_Box_Rental_Agreement.pdf",
+    "pages": 1,
+    "sha256": "86a27f5ef43cd6ab47867654a2eaa08ba4aefd8abfc6921af465dd963a1175af",
+    "title": "Bank B - Safe Deposit Box Rental Agreement | Fictional Evaluation Record"
+  },
+  {
+    "document_id": "DOC-013",
+    "filename": "DOC-013_Employer_E_Wage_Statements_and_2026_Pay_Stubs.pdf",
+    "pages": 22,
+    "sha256": "84f9aad812105cfda0cb2b797e5026d4e6131b1e8c1e2dcbfb1b05124a570426",
+    "title": "Employer E - Wage Statements and 2026 Pay Stubs | Fictional Evaluation Record"
+  },
+  {
+    "document_id": "DOC-014",
+    "filename": "DOC-014_John_and_Jane_Doe_Federal_and_California_Tax_Returns_2018_2025.pdf",
+    "pages": 24,
+    "sha256": "a3087469d77d5193aeb641b2cdac3b69e62d7b453bc29e0838897d2946576f77",
+    "title": "John and Jane Doe - Federal and California Tax Returns, 2018-2025 | Fictional Evaluation Record"
+  },
+  {
+    "document_id": "DOC-015",
+    "filename": "DOC-015_Email_RFP_Questions_October_29_2026.pdf",
+    "pages": 1,
+    "sha256": "ed984cfa3046999210f11d778e65ef98ed6d0ba5d541cc54248bcca505826bae",
+    "title": "Email - RFP Questions - October 29, 2026 | Fictional Evaluation Record"
+  },
+  {
+    "document_id": "DOC-016",
+    "filename": "DOC-016_Email_RFP_October_30_2026.pdf",
+    "pages": 1,
+    "sha256": "cd745df61b1a4dc2be5fe060b4dfd9010286f0d0207dc20e45d7fe15ecbcb69b",
+    "title": "Email - RFP - October 30, 2026 | Fictional Evaluation Record"
+  },
+  {
+    "document_id": "DOC-017",
+    "filename": "DOC-017_Email_Call_Tuesday_November_2_2026.pdf",
+    "pages": 1,
+    "sha256": "0d9e75456fb5406b97cdc7eae424e5978e7eb6251bc29a249c6708b9d58492e9",
+    "title": "Email - Call Tuesday - November 2, 2026 | Fictional Evaluation Record"
+  },
+  {
+    "document_id": "DOC-018",
+    "filename": "DOC-018_Email_House_1_Tracing_November_5_2026.pdf",
+    "pages": 1,
+    "sha256": "0c77f97eccd5fc5b138cb62812d516253eb43e1f4b5df848957e7ca005c19866",
+    "title": "Email - House 1 Tracing - November 5, 2026 | Fictional Evaluation Record"
+  },
+  {
+    "document_id": "DOC-019",
+    "filename": "DOC-019_Email_Bank_A_Gap_November_9_2026.pdf",
+    "pages": 1,
+    "sha256": "f2561754c0c0e0b1fb4e816ecd620b6f9aafedf9a73f93c1df929d143e234c57",
+    "title": "Email - Bank A Gap - November 9, 2026 | Fictional Evaluation Record"
+  },
+  {
+    "document_id": "DOC-020",
+    "filename": "DOC-020_Email_Safe_Deposit_Box_November_3_2026.pdf",
+    "pages": 1,
+    "sha256": "7d081737e6bdb960d0c92dab5d7c83cd022b1777ba97fb1d243d23786e4856ed",
+    "title": "Email - Safe Deposit Box - November 3, 2026 | Fictional Evaluation Record"
+  },
+  {
+    "document_id": "DOC-022",
+    "filename": "DOC-022_John_Doe_Receipt_Note.pdf",
+    "pages": 1,
+    "sha256": "c51bc753d994e3a7e3c9bd8f5f43318c587818b03b2cfb252cd1c9e0a86f9c9f",
+    "title": "John Doe - Receipt Note | Fictional Evaluation Record"
+  }
+]

@@ -1,0 +1,1115 @@
+{
+  "scope": "sanitized copy only; removed identifying values are not reproduced",
+  "privacy_changes": [
+    {
+      "file": "new docs/judge/free-review-all-v1/runs/T1/judge-model-output.json",
+      "kind": "non-readable provider-redacted payload omitted; no visible answer/review changed",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/judge/free-review-all-v1/runs/T2/judge-model-output.json",
+      "kind": "non-readable provider-redacted payload omitted; no visible answer/review changed",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/judge/free-review-all-v1/runs/T3/judge-model-output.json",
+      "kind": "non-readable provider-redacted payload omitted; no visible answer/review changed",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/judge/free-review-all-v1/runs/T4/judge-model-output.json",
+      "kind": "non-readable provider-redacted payload omitted; no visible answer/review changed",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/judge/free-review-all-v1/runs/T5/judge-model-output.json",
+      "kind": "non-readable provider-redacted payload omitted; no visible answer/review changed",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/judge/free-review-all-v1/runs/T6/judge-model-output.json",
+      "kind": "non-readable provider-redacted payload omitted; no visible answer/review changed",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/judge/free-review-all-v1/runs/T7/judge-model-output.json",
+      "kind": "non-readable provider-redacted payload omitted; no visible answer/review changed",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/judge/free-review/logs/2026-10-24T10-32-11-00-00_free-review-base_QpDsiLx7RGVvnM3bChPuJx.eval!samples/base_epoch_1.json",
+      "kind": "local identifying path/account or key-shaped text neutralized",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/judge/free-review/logs/2026-10-24T10-32-11-00-00_free-review-base_QpDsiLx7RGVvnM3bChPuJx.eval!samples/base_epoch_1.json",
+      "kind": "local identifying path/account or key-shaped text neutralized",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/judge/free-review/logs/2026-10-24T10-32-11-00-00_free-review-base_QpDsiLx7RGVvnM3bChPuJx.eval!_journal/summaries/1.json",
+      "kind": "local identifying path/account or key-shaped text neutralized",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/judge/free-review/logs/2026-10-24T10-32-11-00-00_free-review-base_QpDsiLx7RGVvnM3bChPuJx.eval!summaries.json",
+      "kind": "local identifying path/account or key-shaped text neutralized",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/judge/free-review/runs/base-v2-free/RESULT.json",
+      "kind": "local identifying path/account or key-shaped text neutralized",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/judge/free-review/runs/base-v2-free/judge-model-output.json",
+      "kind": "non-readable provider-redacted payload omitted; no visible answer/review changed",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/optimized-v2/logs/base-v2/generation/2026-10-24T09-40-20-00-00_disclosure-guard-optimized_hHDN82ipfAmxmCcvKAizGV.eval!samples/base_epoch_1.json",
+      "kind": "non-readable provider-redacted payload omitted; no visible answer/review changed",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/optimized-v2/logs/base-v2/generation/2026-10-24T09-40-20-00-00_disclosure-guard-optimized_hHDN82ipfAmxmCcvKAizGV.eval!samples/base_epoch_1.json",
+      "kind": "non-readable provider-redacted payload omitted; no visible answer/review changed",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/optimized-v2/runs/base-v2/model-output.json",
+      "kind": "non-readable provider-redacted payload omitted; no visible answer/review changed",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/opus-all-v1/logs/T1/2026-10-24T10-43-38-00-00_opus-only_FBRdjzTV6xWmEHwx9JwvmN.eval!samples/T1_epoch_1.json",
+      "kind": "non-readable provider-redacted payload omitted; no visible answer/review changed",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/opus-all-v1/logs/T1/2026-10-24T10-43-38-00-00_opus-only_FBRdjzTV6xWmEHwx9JwvmN.eval!samples/T1_epoch_1.json",
+      "kind": "non-readable provider-redacted payload omitted; no visible answer/review changed",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/opus-all-v1/logs/T2/2026-10-24T10-51-24-00-00_opus-only_C9PqhetjK2QVMxmjHv7KkR.eval!samples/T2_epoch_1.json",
+      "kind": "non-readable provider-redacted payload omitted; no visible answer/review changed",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/opus-all-v1/logs/T2/2026-10-24T10-51-24-00-00_opus-only_C9PqhetjK2QVMxmjHv7KkR.eval!samples/T2_epoch_1.json",
+      "kind": "non-readable provider-redacted payload omitted; no visible answer/review changed",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/opus-all-v1/logs/T3/2026-10-24T10-59-38-00-00_opus-only_Bo3BBPMhXejHmREXy345LN.eval!samples/T3_epoch_1.json",
+      "kind": "non-readable provider-redacted payload omitted; no visible answer/review changed",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/opus-all-v1/logs/T3/2026-10-24T10-59-38-00-00_opus-only_Bo3BBPMhXejHmREXy345LN.eval!samples/T3_epoch_1.json",
+      "kind": "non-readable provider-redacted payload omitted; no visible answer/review changed",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/opus-all-v1/logs/T4/2026-10-24T11-07-03-00-00_opus-only_7xDSPwMWyaSvCwXHUdTeTw.eval!samples/T4_epoch_1.json",
+      "kind": "non-readable provider-redacted payload omitted; no visible answer/review changed",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/opus-all-v1/logs/T4/2026-10-24T11-07-03-00-00_opus-only_7xDSPwMWyaSvCwXHUdTeTw.eval!samples/T4_epoch_1.json",
+      "kind": "non-readable provider-redacted payload omitted; no visible answer/review changed",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/opus-all-v1/logs/T5/2026-10-24T11-15-01-00-00_opus-only_NfdhGpoxZyKixg4LYdusN8.eval!samples/T5_epoch_1.json",
+      "kind": "non-readable provider-redacted payload omitted; no visible answer/review changed",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/opus-all-v1/logs/T5/2026-10-24T11-15-01-00-00_opus-only_NfdhGpoxZyKixg4LYdusN8.eval!samples/T5_epoch_1.json",
+      "kind": "non-readable provider-redacted payload omitted; no visible answer/review changed",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/opus-all-v1/logs/T6/2026-10-24T11-24-43-00-00_opus-only_gjndovsoX2EJhy97GDhwAc.eval!samples/T6_epoch_1.json",
+      "kind": "non-readable provider-redacted payload omitted; no visible answer/review changed",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/opus-all-v1/logs/T6/2026-10-24T11-24-43-00-00_opus-only_gjndovsoX2EJhy97GDhwAc.eval!samples/T6_epoch_1.json",
+      "kind": "non-readable provider-redacted payload omitted; no visible answer/review changed",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/opus-all-v1/logs/T7/2026-10-24T11-32-58-00-00_opus-only_5G8XD5xPkt3JrPTqmcURgZ.eval!samples/T7_epoch_1.json",
+      "kind": "non-readable provider-redacted payload omitted; no visible answer/review changed",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/opus-all-v1/logs/T7/2026-10-24T11-32-58-00-00_opus-only_5G8XD5xPkt3JrPTqmcURgZ.eval!samples/T7_epoch_1.json",
+      "kind": "non-readable provider-redacted payload omitted; no visible answer/review changed",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/opus-all-v1/runs/T1/model-output.json",
+      "kind": "non-readable provider-redacted payload omitted; no visible answer/review changed",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/opus-all-v1/runs/T2/model-output.json",
+      "kind": "non-readable provider-redacted payload omitted; no visible answer/review changed",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/opus-all-v1/runs/T3/model-output.json",
+      "kind": "non-readable provider-redacted payload omitted; no visible answer/review changed",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/opus-all-v1/runs/T4/model-output.json",
+      "kind": "non-readable provider-redacted payload omitted; no visible answer/review changed",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/opus-all-v1/runs/T5/model-output.json",
+      "kind": "non-readable provider-redacted payload omitted; no visible answer/review changed",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/opus-all-v1/runs/T6/model-output.json",
+      "kind": "non-readable provider-redacted payload omitted; no visible answer/review changed",
+      "removed_value": "not recorded"
+    },
+    {
+      "file": "new docs/opus-all-v1/runs/T7/model-output.json",
+      "kind": "non-readable provider-redacted payload omitted; no visible answer/review changed",
+      "removed_value": "not recorded"
+    }
+  ],
+  "packaging_changes": [
+    {
+      "file": "new docs/judge/author-review/T1.md",
+      "kind": "private-snapshot links redirected to canonical sanitized release files"
+    },
+    {
+      "file": "new docs/judge/author-review/T2.md",
+      "kind": "private-snapshot links redirected to canonical sanitized release files"
+    },
+    {
+      "file": "new docs/judge/author-review/T3.md",
+      "kind": "private-snapshot links redirected to canonical sanitized release files"
+    },
+    {
+      "file": "new docs/judge/author-review/T4.md",
+      "kind": "private-snapshot links redirected to canonical sanitized release files"
+    },
+    {
+      "file": "new docs/judge/author-review/T5.md",
+      "kind": "private-snapshot links redirected to canonical sanitized release files"
+    },
+    {
+      "file": "new docs/judge/author-review/T6.md",
+      "kind": "private-snapshot links redirected to canonical sanitized release files"
+    },
+    {
+      "file": "new docs/judge/author-review/T7.md",
+      "kind": "private-snapshot links redirected to canonical sanitized release files"
+    },
+    {
+      "file": "new docs/judge/author-review/author-review-algorithm.md",
+      "kind": "private-snapshot links redirected to canonical sanitized release files"
+    },
+    {
+      "file": "new docs/judge/author-review/base-author-review-notes.md",
+      "kind": "private-snapshot links redirected to canonical sanitized release files"
+    },
+    {
+      "file": "new docs/judge/author-review/base-final-review.html",
+      "kind": "private-snapshot links redirected to canonical sanitized release files"
+    },
+    {
+      "file": "new docs/judge/author-review/base-final-review.md",
+      "kind": "private-snapshot links redirected to canonical sanitized release files"
+    },
+    {
+      "file": "new docs/judge/author-review/base.md",
+      "kind": "private-snapshot links redirected to canonical sanitized release files"
+    },
+    {
+      "file": "new docs/report/09_base-report.html",
+      "kind": "private-snapshot links redirected to canonical sanitized release files"
+    },
+    {
+      "file": "new docs/report/09_base-report.md",
+      "kind": "private-snapshot links redirected to canonical sanitized release files"
+    },
+    {
+      "file": "README.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "README.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T1.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T1.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T1.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T1.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T1.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T1.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T1.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T1.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T1.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T1.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T1.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T1.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T1.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T1.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T1.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T1.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T1.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T1.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T2.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T2.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T2.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T2.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T2.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T2.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T2.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T3.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T3.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T3.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T3.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T3.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T3.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T3.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T3.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T3.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T3.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T3.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T3.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T3.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T3.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T3.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T3.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T4.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T4.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T4.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T4.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T4.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T4.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T4.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T4.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T4.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T4.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T4.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T4.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T4.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T4.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T4.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T4.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T4.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T4.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T4.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T4.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T4.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T5.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T5.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T5.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T5.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T5.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T5.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T5.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T6.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T6.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T6.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T6.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T6.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T6.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T6.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T6.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T6.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T6.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T6.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T6.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T6.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T6.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T6.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T6.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T6.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T7.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T7.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T7.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T7.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T7.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T7.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T7.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T7.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T7.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T7.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T7.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T7.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T7.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T7.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T7.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T7.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T7.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T7.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T7.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T7.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T7.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T7.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T7.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T7.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T7.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T7.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T7.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T7.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T7.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/T7.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/base-review-workbook.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/base-review-workbook.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/base-review-workbook.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/base.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/base.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/base.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/base.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/base.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/base.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/base.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/base.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/base.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/base.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/base.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/base.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/base.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/base.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/base.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/base.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/base.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/author-review/base.md",
+      "kind": "link to excluded historical/private material rendered as labelled text"
+    },
+    {
+      "file": "new docs/judge/free-review-all-v1/logs/T1/2026-10-24T19-16-33-00-00_review-package_7Jx5yywHM4d7voaxAkwTg5.eval",
+      "kind": "rubric heading shortened for concision; no other content changed"
+    },
+    {
+      "file": "new docs/judge/free-review-all-v1/logs/T2/2026-10-24T19-18-26-00-00_review-package_dBj7yKtLNCWBrqb2DQZ9UJ.eval",
+      "kind": "rubric heading shortened for concision; no other content changed"
+    },
+    {
+      "file": "new docs/judge/free-review-all-v1/logs/T3/2026-10-24T19-19-56-00-00_review-package_9CPWTREPViPYAPVZAmRUMA.eval",
+      "kind": "rubric heading shortened for concision; no other content changed"
+    },
+    {
+      "file": "new docs/judge/free-review-all-v1/logs/T4/2026-10-24T19-21-10-00-00_review-package_Fcqhk5vJ8vhBAHYsygWYYz.eval",
+      "kind": "rubric heading shortened for concision; no other content changed"
+    },
+    {
+      "file": "new docs/judge/free-review-all-v1/logs/T5/2026-10-24T19-22-44-00-00_review-package_hfUe5fEASJs6vVmL54fKya.eval",
+      "kind": "rubric heading shortened for concision; no other content changed"
+    },
+    {
+      "file": "new docs/judge/free-review-all-v1/logs/T6/2026-10-24T19-23-45-00-00_review-package_Lj2E9ecGtz36FfoR4uDgqe.eval",
+      "kind": "rubric heading shortened for concision; no other content changed"
+    },
+    {
+      "file": "new docs/judge/free-review-all-v1/logs/T7/2026-10-24T19-26-13-00-00_review-package_TSDDaBY7rmzVJLmNoi4tM5.eval",
+      "kind": "rubric heading shortened for concision; no other content changed"
+    },
+    {
+      "file": "new docs/judge/free-review-all-v1/runs/T1/judge-messages.json",
+      "kind": "rubric heading shortened for concision; no other content changed"
+    },
+    {
+      "file": "new docs/judge/free-review-all-v1/runs/T2/judge-messages.json",
+      "kind": "rubric heading shortened for concision; no other content changed"
+    },
+    {
+      "file": "new docs/judge/free-review-all-v1/runs/T3/judge-messages.json",
+      "kind": "rubric heading shortened for concision; no other content changed"
+    },
+    {
+      "file": "new docs/judge/free-review-all-v1/runs/T4/judge-messages.json",
+      "kind": "rubric heading shortened for concision; no other content changed"
+    },
+    {
+      "file": "new docs/judge/free-review-all-v1/runs/T5/judge-messages.json",
+      "kind": "rubric heading shortened for concision; no other content changed"
+    },
+    {
+      "file": "new docs/judge/free-review-all-v1/runs/T6/judge-messages.json",
+      "kind": "rubric heading shortened for concision; no other content changed"
+    },
+    {
+      "file": "new docs/judge/free-review-all-v1/runs/T7/judge-messages.json",
+      "kind": "rubric heading shortened for concision; no other content changed"
+    },
+    {
+      "file": "new docs/judge/free-review/logs/2026-10-24T10-32-11-00-00_free-review-base_QpDsiLx7RGVvnM3bChPuJx.eval",
+      "kind": "rubric heading shortened for concision; no other content changed"
+    },
+    {
+      "file": "new docs/judge/free-review/runs/base-v2-free/judge-messages.json",
+      "kind": "rubric heading shortened for concision; no other content changed"
+    },
+    {
+      "file": "new docs/judge/reference-answers.md",
+      "kind": "rubric heading shortened for concision; no other content changed"
+    },
+    {
+      "file": "new docs/judge/rubric.md",
+      "kind": "rubric heading shortened for concision; no other content changed"
+    },
+    {
+      "file": "new docs/rubric.md",
+      "kind": "rubric heading shortened for concision; no other content changed"
+    }
+  ],
+  "exclusions": [
+    {
+      "file": "new docs/optimized-v2/NEW_AGENT_PROMPT.txt",
+      "reason": "superseded agent handoff, not experiment material"
+    },
+    {
+      "file": "new docs/optimized-v2/snapshot.zip",
+      "reason": "redundant preparation archive; necessary contents expanded and inspected, original retained privately"
+    },
+    {
+      "file": "new docs/opus-all-v1/snapshot.zip",
+      "reason": "redundant preparation archive; necessary contents expanded and inspected, original retained privately"
+    },
+    {
+      "file": "new docs/opus5.5/sets/.DS_Store",
+      "reason": "cache/operating-system file"
+    },
+    {
+      "file": "new docs/opus5.5/sets/T1/.DS_Store",
+      "reason": "cache/operating-system file"
+    },
+    {
+      "file": "new docs/judge/README.md",
+      "reason": "replaced by release-specific navigation/status documentation"
+    },
+    {
+      "file": "new docs/optimized-v2/README.md",
+      "reason": "replaced by release-specific navigation/status documentation"
+    },
+    {
+      "file": "new docs/opus5.5/README.md",
+      "reason": "replaced by release-specific navigation/status documentation"
+    },
+    {
+      "file": "new docs/judge/author-review/00_START_HERE.md",
+      "reason": "replaced by release-specific navigation/status documentation"
+    }
+  ],
+  "non_readable_provider_payloads_omitted": 32,
+  "publication_documentation_changes": [
+    {
+      "date": "2026-10-24",
+      "files": [
+        "README.md",
+        "RESEARCH_REFLECTION.md",
+        "LEGAL_RESEARCH_PROVENANCE.md",
+        "new docs/report/09_base-report.md",
+        "new docs/report/09_base-report.html"
+      ],
+      "kind": "author-requested legal research provenance, full case citations and abstract/methods clarification; no model inputs, outputs, scores or original private snapshots changed"
+    },
+    {
+      "date": "2026-10-24",
+      "files": [
+        "README.md",
+        "new docs/report/09_base-report.md",
+        "new docs/report/09_base-report.html"
+      ],
+      "kind": "plain-language teaching/application question, exact drafter/judge inputs, and actual human-oversight timing clarified; scores and source records unchanged"
+    },
+    {
+      "date": "2026-10-24",
+      "files": [
+        "README.md"
+      ],
+      "kind": "concise source attribution with role-specific links; distinguishes design inspiration, supplied worked example and later analysis; no experiment or scoring change"
+    },
+    {
+      "date": "2026-10-24",
+      "files": [
+        "README.md",
+        "METHODOLOGY.md"
+      ],
+      "kind": "formal role-specific acknowledgments and source-attributed analysis methods; completed, retrospective and pending procedures distinguished; no score or experiment change"
+    },
+    {
+      "date": "2026-10-24",
+      "files": [
+        "README.md"
+      ],
+      "kind": "removed internal release-checklist paragraph from public overview; substantive AI-assistance disclosure, research limitations and scores preserved in supporting documents"
+    },
+    {
+      "date": "2026-10-24",
+      "kind": "archived superseded drafts outside publication tree; redirected obsolete workbook links to complete original answer; added secret/cache-only gitignore; author-directed, AI-assisted README (drafted with Claude from the author's ideas and approved edits) and license preserved byte-for-byte",
+      "archived_files": [
+        {
+          "file": "new docs/judge/author-review/base.md",
+          "sha256": "cc8fd0dab35425afbaa24be3cd07db864161ca3058f5f90b1c90c5b1a9a97c92",
+          "reason": "superseded comparison/workbook/summary or redundant disclaimer draft; final review and actual source records retained"
+        },
+        {
+          "file": "new docs/judge/author-review/base-author-summary-draft.md",
+          "sha256": "ddf06ab731c87e1bb0c37a5ddf5d625df5cd5e62c494539f197745127a86e097",
+          "reason": "superseded comparison/workbook/summary or redundant disclaimer draft; final review and actual source records retained"
+        },
+        {
+          "file": "new docs/judge/author-review/base-review-workbook.md",
+          "sha256": "f73a3b8a028ffc55ccbdb660005c9ca70245ebdf44bf8c4fb91da4777df34c0e",
+          "reason": "superseded comparison/workbook/summary or redundant disclaimer draft; final review and actual source records retained"
+        },
+        {
+          "file": "new docs/judge/author-review/base-review-workbook.html",
+          "sha256": "a7606224d23602e097d10d7fe7c3c1082fb447581721f12367c72be598402594",
+          "reason": "superseded comparison/workbook/summary or redundant disclaimer draft; final review and actual source records retained"
+        },
+        {
+          "file": "new docs/judge/author-review/T1.md",
+          "sha256": "b0d7ec0f35cc20c9416f3e82a3a05583dbfc9991b31ef8a5d1d187bd2b932982",
+          "reason": "superseded comparison/workbook/summary or redundant disclaimer draft; final review and actual source records retained"
+        },
+        {
+          "file": "new docs/judge/author-review/T2.md",
+          "sha256": "3275e7bd29ba6e7c6c8ee3d16235d384641a96fa7f3e7b71305bbed6f998404f",
+          "reason": "superseded comparison/workbook/summary or redundant disclaimer draft; final review and actual source records retained"
+        },
+        {
+          "file": "new docs/judge/author-review/T3.md",
+          "sha256": "a897929041ce3e05676f63e55306d3fef70218f871335254476c1754aaa885cf",
+          "reason": "superseded comparison/workbook/summary or redundant disclaimer draft; final review and actual source records retained"
+        },
+        {
+          "file": "new docs/judge/author-review/T4.md",
+          "sha256": "d2570215adc6b295d8727d2c3996118c28eb1b813f9625bb8429164b7d9c1720",
+          "reason": "superseded comparison/workbook/summary or redundant disclaimer draft; final review and actual source records retained"
+        },
+        {
+          "file": "new docs/judge/author-review/T5.md",
+          "sha256": "7fc5210f26ed70c68e357be0f066849acd6662888384eb97cc6bae9fb1e7f267",
+          "reason": "superseded comparison/workbook/summary or redundant disclaimer draft; final review and actual source records retained"
+        },
+        {
+          "file": "new docs/judge/author-review/T6.md",
+          "sha256": "281ed3b90d14455b987ce36e08fd051bd9d163db32c19987a14a6deb39bbef66",
+          "reason": "superseded comparison/workbook/summary or redundant disclaimer draft; final review and actual source records retained"
+        },
+        {
+          "file": "new docs/judge/author-review/T7.md",
+          "sha256": "8ebdd45f916f38565eefb6b7a1282f1c25cd074735a814b0a2a09037cb824238",
+          "reason": "superseded comparison/workbook/summary or redundant disclaimer draft; final review and actual source records retained"
+        },
+        {
+          "file": "new docs/report/08_scope-audience-and-disclaimer.md",
+          "sha256": "edfe7d14bc43fda0a8a040e45ddde0acd6fed2f0a0a359f5d035658fcb94c944",
+          "reason": "superseded comparison/workbook/summary or redundant disclaimer draft; final review and actual source records retained"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "files": [
+        "README.md"
+      ],
+      "kind": "author-requested collaboration invitation broadened across practice areas, with transfer explicitly untested and current-case expertise distinguished; research scope and scores unchanged"
+    },
+    {
+      "date": "2026-10-24",
+      "files": [
+        "README.md",
+        "DISCLAIMER.md"
+      ],
+      "kind": "author-requested draft/ongoing-research notice added (not final, not peer reviewed, needs independent audit); AI-assisted wording; no score, record or experiment change"
+    },
+    {
+      "date": "2026-10-24",
+      "kind": "author-requested: personal working notes removed from the publication tree (archived locally); links replaced with a statement that the final review supersedes them; redundant prefix removed from SUMMARY.md (remaining text unchanged); no score, model record or adjudication changed",
+      "files": [
+        "new docs/judge/author-review/base-final-review.md",
+        "new docs/judge/author-review/base-final-review.html",
+        "new docs/report/09_base-report.md",
+        "new docs/report/09_base-report.html",
+        "new docs/judge/free-review-all-v1/runs/SUMMARY.md",
+        "EXPERIMENT_RECORDS.md"
+      ],
+      "archived_files": [
+        {
+          "file": "new docs/judge/author-review/base-author-review-notes.md",
+          "sha256": "1a96669d32d2c3bba6c46af2b255f5eb314a828e418a2ac71f66f75d0bcd71df",
+          "reason": "author personal working notes or navigation; not required to run or verify the study; final review and report retained"
+        },
+        {
+          "file": "new docs/judge/author-review/author-review-algorithm.md",
+          "sha256": "a7c7bb08f374dc7beff27e9ed5d52e638d12979e32959dcf0c4a919df2f38ef8",
+          "reason": "author personal working notes or navigation; not required to run or verify the study; final review and report retained"
+        },
+        {
+          "file": "new docs/judge/author-review/00_START_HERE.md",
+          "sha256": "8937718e5ec00adc21605510b211b362cd79ea5c02ce076f812f03575b5997de",
+          "reason": "author personal working notes or navigation; not required to run or verify the study; final review and report retained"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "kind": "author-directed public-release licensing and disclaimer update",
+      "files": [
+        "README.md",
+        "DISCLAIMER.md",
+        "LICENSE",
+        "LICENSE-CODE.md"
+      ],
+      "scope": "Replaced public MIT/CC BY grants with PolyForm Noncommercial 1.0.0 for author-controlled code and CC BY-NC 4.0 for author-controlled documentation/data; added limited application-assessment permission and provisional-research notice. Not a privacy redaction. No original inputs, outputs, scores or private locked files changed."
+    },
+    {
+      "date": "2026-10-24",
+      "kind": "author-approved clarification of assessment and research verification permission",
+      "files": [
+        "LICENSE",
+        "README.md",
+        "DISCLAIMER.md"
+      ],
+      "scope": "Explicitly permits code execution, experiment reproduction and reporting of verification findings for assessment or independent verification, including commercial-organization reviewers; no commercial-product grant. No experimental or private-record changes."
+    },
+    {
+      "date": "2026-10-24",
+      "files": [
+        "AI_USE.md",
+        "README.md"
+      ],
+      "kind": "author-requested AI-use statement added (roles of tested models and research assistants, mixed Claude/OpenAI assistance, non-blind AI-assisted review) and linked from README Acknowledgments; author-supplied content, AI-polished wording; no input, output, score, adjudication or licence change"
+    },
+    {
+      "date": "2026-10-24",
+      "kind": "publication staging: interactive website added under docs/ (with copies of public research documents), VERIFY.md and historical-script notes added, repository/website links and author attribution filled from the author-approved details; verifier ignores only the top-level .git directory; no input, output, score or adjudication changed",
+      "files": [
+        "README.md",
+        "LICENSE",
+        "VERIFY.md",
+        "verify_release.py",
+        "new docs/optimized-v2/README.md",
+        "new docs/frozen/revised-2026-10-24-004057/README.md",
+        "docs/"
+      ]
+    }
+  ]
+}

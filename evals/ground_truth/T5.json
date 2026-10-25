@@ -1,0 +1,49 @@
+{
+  "_note": "AUTHOR ONLY. T5 overrides on top of base.json, merged field by field per request (docs/twins.md, approved 2026-10-22). Never shown to the model. Pair constraints approved by the author 2026-10-23.",
+  "scored_requests": [
+    "5"
+  ],
+  "expected_change": "Change: the House 3 lease (DOC-023) is in the file: produce and list it instead of 'unable to comply'; Renter A is no longer named as a possible holder.",
+  "requests": {
+    "5": {
+      "must_produce": [
+        "DOC-023"
+      ],
+      "required_flags": [
+        {
+          "id": "R5.a",
+          "text": "rental history of House 1 and House 2",
+          "kind": "client"
+        }
+      ],
+      "forbidden": [
+        "unable to comply as to the House 3 lease",
+        "Renter A named as possible holder of the lease"
+      ]
+    }
+  },
+  "leak_markers": {
+    "DOC-009": [
+      "A copy of the lease is in my file"
+    ]
+  },
+  "pair_constraints": [
+    {
+      "id": "T5.1",
+      "type": "twin_produces",
+      "requests": [
+        "5"
+      ],
+      "doc": "DOC-023",
+      "text": "T5 produces DOC-023"
+    },
+    {
+      "id": "T5.2",
+      "type": "judge_twin_change",
+      "requests": [
+        "5"
+      ],
+      "text": "The House 3 lease is no longer 'unable to comply', and Renter A is no longer named as a possible holder (judge)"
+    }
+  ]
+}

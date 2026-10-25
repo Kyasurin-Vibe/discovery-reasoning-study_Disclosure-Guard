@@ -1,0 +1,42 @@
+{
+  "_note": "AUTHOR ONLY. T7 overrides on top of base.json, merged field by field per request (docs/twins.md, approved 2026-10-22). Never shown to the model. Pair constraints approved by the author 2026-10-23.",
+  "scored_requests": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13"
+  ],
+  "expected_change": "Change in reasoning, not fixed wording: Definition 9 (default period) is gone. Score recognition of the scope issue and a supported interpretation or a clarification flag; do not require a time-overbreadth objection on every request (some requests carry their own limits). The general objection to Definition 9 no longer applies.",
+  "requests": {},
+  "pair_constraints": [
+    {
+      "id": "T7.1",
+      "type": "judge_twin_change",
+      "requests": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "text": "The answer recognizes the time-scope issue and gives a supported reading or a clarification flag; no mechanical time objection is required (judge)"
+    }
+  ]
+}

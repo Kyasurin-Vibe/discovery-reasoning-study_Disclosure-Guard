@@ -1,0 +1,31 @@
+{
+  "profile": "principles-example-open-medium-v2",
+  "package_id": "T5",
+  "response_source": "live_api",
+  "input_sha256": "06b74720c5ba4797b1b5181bab672ccaf9cd614536dca3d86707523e38217bea",
+  "grading_sha256": "19dc0e9270ed92242eef2b0026dd5e47a4fa132912f7bc3b981a650206d5576f",
+  "release_sha256": "6391267f38cc5aae04e827d3255555705497f87a37b1c3fdc0d324dc22265f93",
+  "stage": "draft",
+  "judge": "none",
+  "answer_sha256": "19a7f88ce95764fcb4675a00e7ac7ece16963ae301b21cf74740a33765cb6d2e",
+  "model": "claude-opus-5-5",
+  "configured_defaults": {
+    "max_retries": 2,
+    "max_connections": 1,
+    "max_tokens": 64000,
+    "cache_prompt": false,
+    "effort": "medium"
+  },
+  "stop_reason": "stop",
+  "usage": {
+    "input_tokens": 66153,
+    "output_tokens": 59894,
+    "total_tokens": 126047,
+    "input_tokens_cache_write": 0,
+    "input_tokens_cache_read": 0,
+    "reasoning_tokens": 40107,
+    "total_cost": null
+  },
+  "sample_uuid": "UXY4gwg4B4sY5Dz6DTGYDk",
+  "saved_at": "2026-10-24T11:24:30.780165+00:00"
+}

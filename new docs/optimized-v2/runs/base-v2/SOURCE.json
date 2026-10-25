@@ -1,0 +1,33 @@
+{
+  "profile": "principles-example-open-medium-v2",
+  "original_input_profile": "principles-example-open-v1",
+  "package_id": "base",
+  "stage": "draft",
+  "input_sha256": "80687a2797de79f9ae0fa0114eb022bb775854d591e31f504ddd1577a00b1500",
+  "grading_sha256": "19dc0e9270ed92242eef2b0026dd5e47a4fa132912f7bc3b981a650206d5576f",
+  "release_sha256": "b4dbf03cea5679f5f58509a9cd69f765e80d84a1a0d977e52a4cf3e74ef48759",
+  "response_source": "live_api",
+  "configuration_change": "medium effort; no prompt cache; serial; one judge report attempt",
+  "answer_sha256": "ee3fbd1fcd6e1898524430a51d00f7d81b9b938aa4fb5ab1767eb5201cd2c1d6",
+  "model": "claude-opus-5-5",
+  "requested_model": "anthropic/claude-opus-5-5",
+  "configured_defaults": {
+    "max_retries": 2,
+    "max_connections": 1,
+    "max_tokens": 64000,
+    "cache_prompt": false,
+    "effort": "medium"
+  },
+  "stop_reason": "stop",
+  "usage": {
+    "input_tokens": 65782,
+    "output_tokens": 44931,
+    "total_tokens": 110713,
+    "input_tokens_cache_write": 0,
+    "input_tokens_cache_read": 0,
+    "reasoning_tokens": 25292,
+    "total_cost": null
+  },
+  "saved_at": "2026-10-24T09:47:24.522369+00:00",
+  "sample_uuid": "KQoR9q7ifeJ9hPxpHkBsU8"
+}

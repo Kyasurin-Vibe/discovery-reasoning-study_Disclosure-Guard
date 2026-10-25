@@ -1,0 +1,12 @@
+# Local secrets and environments
+.env
+.env.*
+.venv/
+venv/
+# Generated local caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+# Experiment runs and logs are deliberately included; do not ignore them globally.

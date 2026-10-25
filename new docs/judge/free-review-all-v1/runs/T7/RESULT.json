@@ -1,0 +1,29 @@
+{
+  "profile": "free-review-all-v1-full-materials",
+  "package_id": "T7",
+  "judge": "anthropic/claude-fable-5-1",
+  "config": {
+    "max_retries": 2,
+    "max_connections": 1,
+    "max_tokens": 64000,
+    "cache_prompt": false,
+    "effort": "medium"
+  },
+  "stop_reason": "stop",
+  "usage": {
+    "input_tokens": 124783,
+    "output_tokens": 16918,
+    "total_tokens": 141701,
+    "input_tokens_cache_write": 0,
+    "input_tokens_cache_read": 0,
+    "reasoning_tokens": 11815,
+    "total_cost": null
+  },
+  "answer_sha256": "309ef6916dba83e9289e4aee5a34da832a28aedef2b87b62f308f808190c2739",
+  "input_sha256": "4560ae66e4cd046a0415288bd70a51b3eadfe44a068794c78a7acdb2192dc6c0",
+  "judge_request_sha256": "5bbb8097ad47b0bc8c5c6dfed6228ac1c3d3b392e01e6bbf776d595268ac0a38",
+  "freeze_sha256": "f754e7d75334eb0f821ff036db5bded967d736fb00f7434e38451bc1c20b48bc",
+  "saved_at": "2026-10-24T19:29:54.580616+00:00",
+  "attempts": 1,
+  "format_check": "none (author reviews the raw text)"
+}

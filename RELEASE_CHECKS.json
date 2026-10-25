@@ -1,0 +1,182 @@
+{
+  "prepared_on": "2026-10-24",
+  "scope": "offline sanitized-copy packaging checks; no API calls or reruns",
+  "build_checks": {
+    "files_pre_verification": 767,
+    "pdfs_examined": 510,
+    "archives_examined": 16,
+    "privacy_changes": 37,
+    "packaging_changes": 153,
+    "visible_answers_reviews_byte_identical": 16,
+    "excluded_items": 9
+  },
+  "visible_answers_and_reviews": "16/16 byte-identical to original",
+  "deep_verification_command": "python3 verify_release.py --deep (requires recorded pypdf dependency)",
+  "original_experiment_snapshot": "checked separately, unchanged; private verifier retained outside release",
+  "publication": "not uploaded, no Git repository initialized",
+  "known_limits": [
+    "Base adjudication complete; T1–T7 author adjudication pending",
+    "Automated scans target known local identifier hashes, identifying local paths, credentials, non-placeholder emails, PDF objects and archived contents; not a proof that every possible personal detail is absent",
+    "Historical freeze/version hashes are original provenance, not sanitized-copy checksums",
+    "Full runtime/model reruns and external website availability are not checked",
+    "Public reuse/licensing of third-party educational excerpts was not independently adjudicated by this packaging step"
+  ],
+  "actual_deep_verification": {
+    "status": "PASS",
+    "checks": {
+      "files": 766,
+      "archives": 16,
+      "archive_members": 88,
+      "pdfs_deep_checked": 510,
+      "local_links": 63
+    },
+    "pdf_mode": "decoded metadata, objects and streams",
+    "issues": []
+  },
+  "actual_inputs_byte_identical": [
+    {
+      "file": "new docs/opus5.5/sets/T5/model-messages.json",
+      "byte_identical": true
+    },
+    {
+      "file": "new docs/opus5.5/sets/T2/model-messages.json",
+      "byte_identical": true
+    },
+    {
+      "file": "new docs/opus5.5/sets/T3/model-messages.json",
+      "byte_identical": true
+    },
+    {
+      "file": "new docs/opus5.5/sets/T4/model-messages.json",
+      "byte_identical": true
+    },
+    {
+      "file": "new docs/opus5.5/sets/T1/model-messages.json",
+      "byte_identical": true
+    },
+    {
+      "file": "new docs/opus5.5/sets/T6/model-messages.json",
+      "byte_identical": true
+    },
+    {
+      "file": "new docs/opus5.5/sets/base/model-messages.json",
+      "byte_identical": true
+    },
+    {
+      "file": "new docs/opus5.5/sets/T7/model-messages.json",
+      "byte_identical": true
+    },
+    {
+      "file": "new docs/judge/free-review/runs/base-v2-free/judge-messages.json",
+      "byte_identical": false,
+      "note": "rubric heading shortened for concision in the public copy"
+    },
+    {
+      "file": "new docs/judge/free-review-all-v1/runs/T5/judge-messages.json",
+      "byte_identical": false,
+      "note": "rubric heading shortened for concision in the public copy"
+    },
+    {
+      "file": "new docs/judge/free-review-all-v1/runs/T2/judge-messages.json",
+      "byte_identical": false,
+      "note": "rubric heading shortened for concision in the public copy"
+    },
+    {
+      "file": "new docs/judge/free-review-all-v1/runs/T3/judge-messages.json",
+      "byte_identical": false,
+      "note": "rubric heading shortened for concision in the public copy"
+    },
+    {
+      "file": "new docs/judge/free-review-all-v1/runs/T4/judge-messages.json",
+      "byte_identical": false,
+      "note": "rubric heading shortened for concision in the public copy"
+    },
+    {
+      "file": "new docs/judge/free-review-all-v1/runs/T1/judge-messages.json",
+      "byte_identical": false,
+      "note": "rubric heading shortened for concision in the public copy"
+    },
+    {
+      "file": "new docs/judge/free-review-all-v1/runs/T6/judge-messages.json",
+      "byte_identical": false,
+      "note": "rubric heading shortened for concision in the public copy"
+    },
+    {
+      "file": "new docs/judge/free-review-all-v1/runs/T7/judge-messages.json",
+      "byte_identical": false,
+      "note": "rubric heading shortened for concision in the public copy"
+    }
+  ],
+  "python_source_syntax_check": "25 files parsed; no source code executed",
+  "private_original_snapshot_bytes": "all 540 files byte-identical to pre-operation baseline",
+  "privacy_change_categories": {
+    "non-readable provider-redacted payload omitted; no visible answer/review changed": 32,
+    "local identifying path/account or key-shaped text neutralized": 5
+  },
+  "publication_documentation_update": {
+    "date": "2026-10-24",
+    "files": [
+      "README.md",
+      "RESEARCH_REFLECTION.md"
+    ],
+    "scope": "AI-assisted publication overview and author research reflection; no score or original-record changes",
+    "pending": "author final wording approval before publication; repeat independent release audit",
+    "checks": "Repeated full offline scan passed after README/reflection update; private snapshots verify unchanged."
+  },
+  "publication_legal_provenance_update": {
+    "date": "2026-10-24",
+    "outline_cases_with_full_citations": 10,
+    "scope": "publication narrative and source documentation only; no legal-compliance certification or new experiment"
+  },
+  "readme_attribution_update": {
+    "date": "2026-10-24",
+    "roles": [
+      "legal grounding",
+      "supplied worked example",
+      "reasoning/evaluation inspiration",
+      "retrospective diagnostic analysis"
+    ],
+    "api_calls": 0,
+    "score_changes": false
+  },
+  "acknowledgments_and_methods_update": {
+    "date": "2026-10-24",
+    "files": [
+      "README.md",
+      "METHODOLOGY.md"
+    ],
+    "scope": "publication documentation only; attribution and method descriptions, no new grading mechanism"
+  },
+  "final_publication_cleanup": {
+    "date": "2026-10-24",
+    "superseded_documents_removed": 12,
+    "readme_and_license": "Historical cleanup retained the then-current wording; superseded by the documented licensing_update.",
+    "code_dependencies": "historical code/material dependencies retained; no model calls or full runtime reproduction",
+    "additional_gitignore": "secrets and caches only; actual research runs/logs remain included",
+    "final_status": "PASS",
+    "actual_inputs_answers_reviews_byte_identical": 24
+  },
+  "cross_practice_collaboration_update": {
+    "date": "2026-10-24",
+    "scope": "README invitation only; transfer remains a proposed research question"
+  },
+  "licensing_update": {
+    "date": "2026-10-24",
+    "software": "PolyForm-Noncommercial-1.0.0",
+    "author_documentation_data": "CC-BY-NC-4.0",
+    "application_assessment": "Additional permission covers application assessment and independent research verification, including execution, reproduction, necessary recorded changes and reporting by reviewers at commercial organizations. No commercial-product grant.",
+    "original_records_modified": false,
+    "scores_modified": false,
+    "api_calls": 0,
+    "uploaded": false,
+    "offline_tests": {
+      "passed": 79,
+      "failed": 0,
+      "network_connections": "disabled during test process",
+      "source_code_changed": false
+    },
+    "private_locks": "Both lock verifiers pass; before/after file hashes show no changes to either private locked directory.",
+    "byte_identical_outputs": "All 8 drafter answers and 8 judge reviews remain unchanged; grading/adjudication files not edited.",
+    "reproduction_permission_update": "2026-10-24; publication wording only; no code, model input/output, score or private-lock changes"
+  }
+}

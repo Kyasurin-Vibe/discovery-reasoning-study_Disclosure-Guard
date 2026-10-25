@@ -1,0 +1,58 @@
+# Request for Production, Set One
+
+PETITIONER: JANE DOE
+RESPONDENT: JOHN DOE
+SET NO.: ONE
+
+*In re Marriage of Jane Doe and John Doe*, Superior Court of California, County of Los Angeles, Case No. XXXXX-0000
+
+Petitioner Jane Doe requests that Respondent John Doe produce the following documents within thirty (30) days of service, pursuant to Code of Civil Procedure section 2031.010 et seq.
+
+**DEFINITIONS**
+
+1. "YOU" and "YOUR" mean Respondent John Doe and every person acting or purporting to act on his behalf, including his agents, representatives, employees, accountants, financial advisors, and attorneys.
+2. "DOCUMENT" means any "writing" as defined in Evidence Code section 250, and includes, without limitation, every original, draft, and non-identical copy of any paper or electronically stored information: letters, correspondence, e-mail, text and instant messages, voicemail, notes, memoranda, calendars, spreadsheets, statements, ledgers, receipts, invoices, checks (front and back), deposit slips, wire and transfer confirmations, photographs, and recordings, in YOUR possession, custody, or control.
+3. "COMMUNICATION" means any transmission of information by any means, whether oral, written, or electronic, including e-mail, text message, messaging application, social media message, letter, and telephone call, and any DOCUMENT that records or refers to such a transmission.
+4. "FINANCIAL ACCOUNT" means any checking, savings, money market, certificate of deposit, brokerage, investment, retirement, credit card, line of credit, loan, or other account at any bank, credit union, brokerage, or other financial institution, held in YOUR name individually, jointly with any PERSON, or as trustee, custodian, or nominee, or over which YOU have or had signature authority.
+5. "REAL PROPERTY" means any land, residence, building, or other real estate, wherever located, and any interest in it, including legal title, equitable interest, or interest held through any entity or trust.
+6. "PERSON" means any natural person, corporation, partnership, limited liability company, trust, association, governmental entity, or other entity.
+7. "DATE OF SEPARATION" means January 1, 2026. "DURING THE MARRIAGE" means from the date of the parties' marriage through the DATE OF SEPARATION.
+8. "RELATING TO" means concerning, referring to, describing, reflecting, evidencing, constituting, supporting, or contradicting.
+9. Unless otherwise stated in a specific request, the "RELEVANT TIME PERIOD" for each request is January 1, 2016, through the present.
+10. The singular includes the plural and vice versa; "and" and "or" are to be read both conjunctively and disjunctively so as to bring within the scope of each request all DOCUMENTS that might otherwise be construed to be outside its scope.
+
+**INSTRUCTIONS**
+
+1. Produce DOCUMENTS as they are kept in the usual course of business, or organized and labeled to correspond with the numbered requests.
+2. If any DOCUMENT is withheld under a claim of privilege, identify it in a privilege log stating its date, author, recipients, subject matter, and the privilege claimed.
+3. If any responsive DOCUMENT has been lost or destroyed, identify it and state the circumstances of its loss or destruction.
+
+**REQUESTS FOR PRODUCTION**
+
+**REQUEST NO. 1:** All statements for every account at any bank or financial institution in which YOU have or had any interest, for the past ten (10) years.
+
+**REQUEST NO. 2:** All receipts for any purchase over $500 made by YOU during the marriage.
+
+**REQUEST NO. 3:** All DOCUMENTS RELATING TO the real property located in City A, including but not limited to purchase documents, title, loan documents, and records of every payment made on any loan secured by the property.
+
+**REQUEST NO. 4:** All DOCUMENTS evidencing title to any real property in which YOU hold any interest.
+
+**REQUEST NO. 5:** All leases, rental agreements, and records of rent received for any property YOU own or have owned.
+
+**REQUEST NO. 6:** All DOCUMENTS RELATING TO the purchase, sale, transfer, or other disposition of any vehicle during the marriage.
+
+**REQUEST NO. 7:** All DOCUMENTS RELATING TO any safe deposit box in YOUR name or to which YOU have access, including an inventory of its contents.
+
+**REQUEST NO. 8:** All communications between YOU and any person RELATING TO YOUR finances, this dissolution proceeding, or the division of property.
+
+**REQUEST NO. 9:** All reports, analyses, and communications prepared by any accountant, appraiser, or other financial professional RELATING TO the marital estate.
+
+**REQUEST NO. 10:** All DOCUMENTS showing YOUR income from all sources from January 1, 2024, to the present.
+
+**REQUEST NO. 11:** All federal and state income tax returns filed by YOU during the marriage.
+
+**REQUEST NO. 12:** All DOCUMENTS RELATING TO any jewelry, handbags, or other personal property of value acquired during the marriage.
+
+**REQUEST NO. 13:** All statements, transaction histories, and wallet records for any cryptocurrency account, including Bitcoin, held by YOU or for YOUR benefit.
+
+Dated: October 28, 2026 · Attorney for Petitioner

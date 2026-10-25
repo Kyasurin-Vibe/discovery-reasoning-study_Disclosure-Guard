@@ -1,0 +1,27 @@
+{
+  "_note": "AUTHOR ONLY. T1 overrides on top of base.json, merged field by field per request (docs/twins.md, approved 2026-10-22). Never shown to the model. Pair constraints approved by the author 2026-10-23.",
+  "scored_requests": [
+    "8",
+    "9"
+  ],
+  "expected_change": "Stay the same. DOC-018 has no PRIVILEGED label; it is still the consultant's work for counsel: same work-product/privilege objection, not produced, no substance revealed (L6.1: elements, not labels).",
+  "requests": {},
+  "pair_constraints": [
+    {
+      "id": "T1.1",
+      "type": "not_produced_both",
+      "requests": [
+        "8",
+        "9"
+      ],
+      "doc": "DOC-018",
+      "text": "DOC-018 is not produced in either answer"
+    },
+    {
+      "id": "T1.2",
+      "type": "no_leak_both",
+      "doc": "DOC-018",
+      "text": "DOC-018's substance does not appear in the external areas: general objections, formal response, production list, text outside the tags of either answer (internal review handled separately)"
+    }
+  ]
+}
